@@ -1,0 +1,53 @@
+{
+  "type": "lockers_strats",
+  "period": {
+    "start": "2025-09-07T05:00:00+02:00",
+    "end": "2025-09-08T17:00:00+02:00",
+    "week": "2025-W36"
+  },
+  "generated_at": "2025-09-08T18:05:59.199008",
+  "totals": {
+    "total_usd": 6942.84,
+    "strategy_usd": 5778.51,
+    "locker_usd": 1164.33
+  },
+  "tokens": [
+    {
+      "symbol": "CRV",
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "protocol": "Curve",
+      "amount": 7276.2136181935175,
+      "usd_value": 5778.51,
+      "strategy_pct": 100.0,
+      "locker_pct": 0.0
+    },
+    {
+      "symbol": "USDC",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "protocol": "Balancer",
+      "amount": 507.859131,
+      "usd_value": 507.66,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "dYFI",
+      "address": "0x41252E8691e964f7DE35156B68493bAb6797a275",
+      "protocol": "Yearn",
+      "amount": 0.13323576832465714,
+      "usd_value": 437.94,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "wstETH",
+      "address": "0x7f39C581F595B53c5cb19bD0b3f8dA6c935E2Ca0",
+      "protocol": "f(x)",
+      "amount": 0.04135385212563781,
+      "usd_value": 218.73,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    }
+  ],
+  "usdc_tx": "0x232fc96ccc07bf156ebd8b9b2158741cefb6d25b24169018caebb244deb2c7ed"
+}
