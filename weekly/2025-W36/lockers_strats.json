@@ -1,0 +1,74 @@
+{
+  "type": "lockers_strats",
+  "period": {
+    "start": "2025-09-02T00:00:00+02:00",
+    "end": "2025-09-08T23:59:59.999999+02:00",
+    "week": "2025-W36"
+  },
+  "generated_at": "2025-09-09T13:23:24.080340",
+  "totals": {
+    "total_usd": 16196.29,
+    "strategy_usd": 11816.19,
+    "locker_usd": 2473.88
+  },
+  "tokens": [
+    {
+      "symbol": "CRV",
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "protocol": "Crv",
+      "amount": 15126.289497960122,
+      "usd_value": 11816.19257615684,
+      "strategy_pct": 100.0,
+      "locker_pct": 0.0
+    },
+    {
+      "symbol": "crvUSD",
+      "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+      "protocol": "Curve",
+      "amount": 1487.934799831605,
+      "usd_value": 1462.1596669824862,
+      "strategy_pct": 0,
+      "locker_pct": 0
+    },
+    {
+      "symbol": "dYFI",
+      "address": "0x41252e8691e964f7de35156b68493bab6797a275",
+      "protocol": "Yfi",
+      "amount": 0.4335907433471859,
+      "usd_value": 1402.118497924704,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "USDC",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "protocol": "Balancer",
+      "amount": 761.788696,
+      "usd_value": 749.0359309084571,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "PENDLE",
+      "address": "0x808507121b80c02388fad14726482e061b8da827",
+      "protocol": "Pendle",
+      "amount": 91.2175257482333,
+      "usd_value": 444.0540907938413,
+      "strategy_pct": 0,
+      "locker_pct": 0
+    },
+    {
+      "symbol": "wstETH",
+      "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "protocol": "f(x)",
+      "amount": 0.06203077818845672,
+      "usd_value": 322.7286012336711,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    }
+  ],
+  "usdc_txs": [
+    "0xd611e265d2613b020b5f36816195047dcfe51ba202636b27882ec6cf8117a1bb",
+    "0x232fc96ccc07bf156ebd8b9b2158741cefb6d25b24169018caebb244deb2c7ed"
+  ]
+}
