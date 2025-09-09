@@ -2,14 +2,14 @@
   "type": "lockers_strats",
   "period": {
     "start": "2025-09-02T00:00:00+02:00",
-    "end": "2025-09-08T23:59:59.999999+02:00",
+    "end": "2025-09-08T23:59:59+02:00",
     "week": "2025-W36"
   },
-  "generated_at": "2025-09-09T13:23:24.080340",
+  "generated_at": "2025-09-09T19:43:51.114602",
   "totals": {
     "total_usd": 16196.29,
-    "strategy_usd": 11816.19,
-    "locker_usd": 2473.88
+    "strategy_usd": 12260.25,
+    "locker_usd": 3936.04
   },
   "tokens": [
     {
@@ -28,7 +28,7 @@
       "amount": 1487.934799831605,
       "usd_value": 1462.1596669824862,
       "strategy_pct": 0,
-      "locker_pct": 0
+      "locker_pct": 100
     },
     {
       "symbol": "dYFI",
@@ -54,8 +54,8 @@
       "protocol": "Pendle",
       "amount": 91.2175257482333,
       "usd_value": 444.0540907938413,
-      "strategy_pct": 0,
-      "locker_pct": 0
+      "strategy_pct": 100.0,
+      "locker_pct": 0.0
     },
     {
       "symbol": "wstETH",
