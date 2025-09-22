@@ -1,0 +1,73 @@
+{
+  "type": "lockers_strats",
+  "period": {
+    "start": "2025-09-16T00:00:00+02:00",
+    "end": "2025-09-22T23:59:59+02:00",
+    "week": "2025-W38"
+  },
+  "generated_at": "2025-09-22T18:26:26.438713",
+  "totals": {
+    "total_usd": 30784.23,
+    "strategy_usd": 26921.57,
+    "locker_usd": 3862.65
+  },
+  "tokens": [
+    {
+      "symbol": "CRV",
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "protocol": "Crv",
+      "amount": 22736.083988913735,
+      "usd_value": 24987.79409884932,
+      "strategy_pct": 100.0,
+      "locker_pct": 0.0
+    },
+    {
+      "symbol": "crvUSD",
+      "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+      "protocol": "Curve",
+      "amount": 1392.968609295089,
+      "usd_value": 1898.803143336058,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "dYFI",
+      "address": "0x41252e8691e964f7de35156b68493bab6797a275",
+      "protocol": "Yfi",
+      "amount": 0.3645336888938506,
+      "usd_value": 1679.1620035972664,
+      "strategy_pct": 77.0863,
+      "locker_pct": 22.9137
+    },
+    {
+      "symbol": "USDC",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "protocol": "Balancer",
+      "amount": 1054.757233,
+      "usd_value": 1438.0132038703557,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "PENDLE",
+      "address": "0x808507121b80c02388fad14726482e061b8da827",
+      "protocol": "Pendle",
+      "amount": 92.29022216347644,
+      "usd_value": 639.3769395428093,
+      "strategy_pct": 100.0,
+      "locker_pct": 0.0
+    },
+    {
+      "symbol": "wstETH",
+      "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "protocol": "f(x)",
+      "amount": 0.019042039403648507,
+      "usd_value": 141.0791228041927,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    }
+  ],
+  "usdc_txs": [
+    "0xb2ffac5cf001294c4819243cfc72f6b116bfbadbffc367f444bd75d9bf4da64e"
+  ]
+}
