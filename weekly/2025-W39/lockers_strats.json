@@ -61,8 +61,8 @@
       "symbol": "wstETH",
       "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
       "protocol": "f(x)",
-      "amount": 0.036594881557781504,
-      "usd_value": 177.37573300609597,
+      "amount": 0.13087230883683077,
+      "usd_value": 975.17065100609597,
       "strategy_pct": 0.0,
       "locker_pct": 100.0
     }
