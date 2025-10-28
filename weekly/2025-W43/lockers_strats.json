@@ -1,0 +1,115 @@
+{
+  "type": "lockers_strats",
+  "period": {
+    "start": "2025-10-23T00:00:00+01:00",
+    "end": "2025-10-29T23:59:59+01:00",
+    "week": "2025-W43"
+  },
+  "generated_at": "2025-10-28T18:05:04.584030",
+  "totals": {
+    "total_usd": 12374.77,
+    "strategy_usd": 9827.86,
+    "locker_usd": 2546.91,
+    "total_strategy_l1_usd": 7510.34,
+    "total_strategy_l2_usd": 2317.52
+  },
+  "tokens": [
+    {
+      "symbol": "CRV",
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "protocol": "Crv",
+      "amount": 18350.828431405746,
+      "usd_value": 9661.889327267681,
+      "strategy_pct": 100.0,
+      "locker_pct": 0.0,
+      "strategy_sources": {
+        "l1": {
+          "amount": 13949155783564654651197,
+          "usd": 7344.37
+        },
+        "l2": {
+          "amount": 4401672647841091573955,
+          "usd": 2317.52,
+          "chains": [
+            {
+              "chain": "Sonic",
+              "amount": 2576181323877300830208,
+              "usd": 1356.38,
+              "txs": [
+                "0x119a743082e9ceb252c9044ef8cac5350b32f0e4ce414c2669fcb2cb466e79a1"
+              ]
+            },
+            {
+              "chain": "Arbitrum",
+              "amount": 1825491323963790852096,
+              "usd": 961.14,
+              "txs": [
+                "0xe1bd562711a237ec22ac15550e8fabf84c7959d8977ae478a793ac18a3cdc115"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "symbol": "crvUSD",
+      "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+      "protocol": "Curve",
+      "amount": 1387.6477509650374,
+      "usd_value": 1385.2325420012241,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "USDC",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "protocol": "Balancer",
+      "amount": 632.762204,
+      "usd_value": 631.483765056485,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "dYFI",
+      "address": "0x41252e8691e964f7de35156b68493bab6797a275",
+      "protocol": "Yfi",
+      "amount": 0.17564477339432713,
+      "usd_value": 530.1920376190078,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "PENDLE",
+      "address": "0x808507121b80c02388fad14726482e061b8da827",
+      "protocol": "Pendle",
+      "amount": 52.44520567352506,
+      "usd_value": 165.97516105560211,
+      "strategy_pct": 100.0,
+      "locker_pct": 0.0,
+      "strategy_sources": {
+        "l1": {
+          "amount": 52445205673525059584,
+          "usd": 165.98
+        },
+        "l2": {
+          "amount": 0,
+          "usd": 0.0,
+          "chains": []
+        }
+      }
+    }
+  ],
+  "usdc_txs": [
+    "0xcdf61f90669416601aa12e0eb04213b9c466a9fcd7926f4ea202ab4ac5d5787f"
+  ],
+  "l2_chains": [
+    {
+      "chain": "Sonic",
+      "usd": 1356.38
+    },
+    {
+      "chain": "Arbitrum",
+      "usd": 961.14
+    }
+  ]
+}
