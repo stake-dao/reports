@@ -1,0 +1,146 @@
+{
+  "type": "lockers_strats",
+  "period": {
+    "start": "2025-10-30T00:00:00+01:00",
+    "end": "2025-11-05T23:59:59+01:00",
+    "week": "2025-W44"
+  },
+  "generated_at": "2025-11-01T18:38:05.253972",
+  "totals": {
+    "total_usd": 11809.3,
+    "strategy_usd": 9709.75,
+    "locker_usd": 2099.55,
+    "total_strategy_l1_usd": 5558.27,
+    "total_strategy_l2_usd": 4151.48
+  },
+  "tokens": [
+    {
+      "symbol": "CRV",
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "protocol": "Crv",
+      "amount": 19797.844408321336,
+      "usd_value": 9550.524084154307,
+      "strategy_pct": 100.0,
+      "locker_pct": 0.0,
+      "strategy_sources": {
+        "l1": {
+          "amount": 11191992605776377173228,
+          "usd": 5399.04
+        },
+        "l2": {
+          "amount": 8605851802544957664020,
+          "usd": 4151.48,
+          "chains": [
+            {
+              "chain": "Sonic",
+              "amount": 4059490406886047481856,
+              "usd": 1958.31,
+              "txs": [
+                "0xdcadb40a51c40e0fdd110b80f96b8ec9b8014fe656d15ce476714cdb71fda56e",
+                "0xd873dc3f100e450d85c90364a80c9e94a17afdd232f480deaef81e9e35b5d797"
+              ]
+            },
+            {
+              "chain": "Arbitrum",
+              "amount": 1490912642287806709760,
+              "usd": 719.22,
+              "txs": [
+                "0x65ef406d23dabd668b48858871cc067ca4dbdad3c5dfc5cf8db7f7624b887617"
+              ]
+            },
+            {
+              "chain": "Base",
+              "amount": 1209432242225355423744,
+              "usd": 583.43,
+              "txs": [
+                "0x65ef406d23dabd668b48858871cc067ca4dbdad3c5dfc5cf8db7f7624b887617",
+                "0xd6eca55cbbfa23a919062ee369f5809e6f7e8a3a7f88e422609ef53312127528"
+              ]
+            },
+            {
+              "chain": "Fraxtal",
+              "amount": 1537479042640439148544,
+              "usd": 741.68,
+              "txs": [
+                "0x65ef406d23dabd668b48858871cc067ca4dbdad3c5dfc5cf8db7f7624b887617",
+                "0xd6eca55cbbfa23a919062ee369f5809e6f7e8a3a7f88e422609ef53312127528"
+              ]
+            },
+            {
+              "chain": "Optimism",
+              "amount": 308537468505309315072,
+              "usd": 148.84,
+              "txs": [
+                "0x65ef406d23dabd668b48858871cc067ca4dbdad3c5dfc5cf8db7f7624b887617",
+                "0xd6eca55cbbfa23a919062ee369f5809e6f7e8a3a7f88e422609ef53312127528"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "symbol": "crvUSD",
+      "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+      "protocol": "Curve",
+      "amount": 1953.4845902132322,
+      "usd_value": 1948.9935332241,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "PENDLE",
+      "address": "0x808507121b80c02388fad14726482e061b8da827",
+      "protocol": "Pendle",
+      "amount": 51.42179754413611,
+      "usd_value": 159.2257724839302,
+      "strategy_pct": 100.0,
+      "locker_pct": 0.0,
+      "strategy_sources": {
+        "l1": {
+          "amount": 51421797544136114176,
+          "usd": 159.23
+        },
+        "l2": {
+          "amount": 0,
+          "usd": 0.0,
+          "chains": []
+        }
+      }
+    },
+    {
+      "symbol": "wstETH",
+      "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "protocol": "f(x)",
+      "amount": 0.03215195897447141,
+      "usd_value": 150.5597381376632,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    }
+  ],
+  "usdc_txs": [
+    "0xac358da25122cf5aed37d60212392a4c7747bf9cd3d401174acf5ff7a115caa2"
+  ],
+  "l2_chains": [
+    {
+      "chain": "Sonic",
+      "usd": 1958.31
+    },
+    {
+      "chain": "Fraxtal",
+      "usd": 741.68
+    },
+    {
+      "chain": "Arbitrum",
+      "usd": 719.22
+    },
+    {
+      "chain": "Base",
+      "usd": 583.43
+    },
+    {
+      "chain": "Optimism",
+      "usd": 148.84
+    }
+  ]
+}
