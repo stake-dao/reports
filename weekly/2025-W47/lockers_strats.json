@@ -1,0 +1,92 @@
+{
+  "type": "lockers_strats",
+  "period": {
+    "start": "2025-11-20T00:00:00+01:00",
+    "end": "2025-11-26T23:59:59+01:00",
+    "week": "2025-W47"
+  },
+  "generated_at": "2025-11-25T15:22:12.924659",
+  "totals": {
+    "total_usd": 13371.84,
+    "strategy_usd": 3274.39,
+    "locker_usd": 10097.44,
+    "total_strategy_l1_usd": 2928.53,
+    "total_strategy_l2_usd": 345.86
+  },
+  "tokens": [
+    {
+      "symbol": "crvUSD",
+      "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+      "protocol": "Curve",
+      "amount": 21329.889807866657,
+      "usd_value": 8644.500697410675,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "CRV",
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "protocol": "Crv",
+      "amount": 21421.96469479872,
+      "usd_value": 3274.394799546663,
+      "strategy_pct": 100.0,
+      "locker_pct": 0.0,
+      "strategy_sources": {
+        "l1": {
+          "amount": 19159230162172200574585,
+          "usd": 2928.53
+        },
+        "l2": {
+          "amount": 2262734532626520252807,
+          "usd": 345.86,
+          "chains": [
+            {
+              "chain": "Sonic",
+              "amount": 2262734532626520211456,
+              "usd": 345.86,
+              "txs": [
+                "0x94467b14715712e625a46957c6c91d7453eeec95d5fed1808708ad0370b6c5aa"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "symbol": "dYFI",
+      "address": "0x41252e8691e964f7de35156b68493bab6797a275",
+      "protocol": "Yfi",
+      "amount": 0.8332452295331881,
+      "usd_value": 907.2732201672056,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "wstETH",
+      "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "protocol": "f(x)",
+      "amount": 0.3038735679964115,
+      "usd_value": 423.3093540171376,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "USDC",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "protocol": "Balancer",
+      "amount": 301.658296,
+      "usd_value": 122.36063785831813,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    }
+  ],
+  "usdc_txs": [
+    "0xc224bc26376dc5288a2149b0d46169d90fc49ccb8b4f316a59f488823caeb664"
+  ],
+  "l2_chains": [
+    {
+      "chain": "Sonic",
+      "usd": 345.86
+    }
+  ]
+}
