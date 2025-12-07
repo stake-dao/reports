@@ -7,19 +7,19 @@
   },
   "generated_at": "2025-11-30T22:32:07.919786",
   "totals": {
-    "total_usd": 11895.34,
-    "strategy_usd": 9506.0,
+    "total_usd": 17585.55,
+    "strategy_usd": 15196.21,
     "locker_usd": 2389.34,
     "total_strategy_l1_usd": 8050.64,
-    "total_strategy_l2_usd": 1455.36
+    "total_strategy_l2_usd": 7145.57
   },
   "tokens": [
     {
       "symbol": "CRV",
       "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
       "protocol": "Crv",
-      "amount": 22248.249505430376,
-      "usd_value": 9411.43981634565,
+      "amount": 37083.318073523404,
+      "usd_value": 15101.650035731577,
       "strategy_pct": 100.0,
       "locker_pct": 0.0,
       "strategy_sources": {
@@ -28,8 +28,8 @@
           "usd": 7956.08
         },
         "l2": {
-          "amount": 3440419721806177205501,
-          "usd": 1455.36,
+          "amount": 18275488289899073315317,
+          "usd": 7145.57,
           "chains": [
             {
               "chain": "Sonic",
@@ -38,6 +38,43 @@
               "txs": [
                 "0xbef813fa5fd1a7278f2d13feddeff361ff67af1816ae165c348b79ee1a4fda0c",
                 "0x6f14e33312848109525097feb7b07305bff7920f0e3da9a4fc2fdfd53903ff40"
+              ]
+            },
+            {
+              "chain": "Arbitrum",
+              "amount": 4257402049012437090304,
+              "usd": 1632.99,
+              "txs": [
+                "0xdbe2416f592a419520893d272f78d6b2ca37f515b7cdbe1ea829197544dde514",
+                "0xc47098c0bda94b72c5fe41edca7210ebc23e1725bf3956d369b6a52cf268b784",
+                "0x6cb1e8e0af1edc7d216de1a65b96257ab70f1978097551157cbdee82563f3c4e"
+              ]
+            },
+            {
+              "chain": "Base",
+              "amount": 4657841784659415400448,
+              "usd": 1786.58,
+              "txs": [
+                "0xe0246584e473294b33c92a822ae2dfbe80b9ec70e0a6f3b64f514034965f9915",
+                "0xba97dce11d2a5a2493cda89ac6f9c2beaa1623aeff79078cfb2ce73b60b05ee8"
+              ]
+            },
+            {
+              "chain": "Fraxtal",
+              "amount": 4854541690188020580352,
+              "usd": 1862.03,
+              "txs": [
+                "0xe0246584e473294b33c92a822ae2dfbe80b9ec70e0a6f3b64f514034965f9915",
+                "0xba97dce11d2a5a2493cda89ac6f9c2beaa1623aeff79078cfb2ce73b60b05ee8"
+              ]
+            },
+            {
+              "chain": "Optimism",
+              "amount": 1065283044234023141376,
+              "usd": 408.6,
+              "txs": [
+                "0xe0246584e473294b33c92a822ae2dfbe80b9ec70e0a6f3b64f514034965f9915",
+                "0xba97dce11d2a5a2493cda89ac6f9c2beaa1623aeff79078cfb2ce73b60b05ee8"
               ]
             }
           ]
@@ -97,8 +134,24 @@
   ],
   "l2_chains": [
     {
+      "chain": "Fraxtal",
+      "usd": 1862.03
+    },
+    {
+      "chain": "Base",
+      "usd": 1786.58
+    },
+    {
+      "chain": "Arbitrum",
+      "usd": 1632.99
+    },
+    {
       "chain": "Sonic",
       "usd": 1455.36
+    },
+    {
+      "chain": "Optimism",
+      "usd": 408.6
     }
   ]
 }
