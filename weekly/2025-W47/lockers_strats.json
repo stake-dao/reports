@@ -7,11 +7,11 @@
   },
   "generated_at": "2025-11-25T15:22:12.924659",
   "totals": {
-    "total_usd": 13371.84,
-    "strategy_usd": 3274.39,
-    "locker_usd": 10097.44,
-    "total_strategy_l1_usd": 2928.53,
-    "total_strategy_l2_usd": 345.86
+    "total_usd": 19537.455951224474,
+    "strategy_usd": 9440.012041771139,
+    "locker_usd": 10097.443909453337,
+    "total_strategy_l1_usd": 8442.89335823078,
+    "total_strategy_l2_usd": 997.1186835403586
   },
   "tokens": [
     {
@@ -28,22 +28,22 @@
       "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
       "protocol": "Crv",
       "amount": 21421.96469479872,
-      "usd_value": 3274.394799546663,
+      "usd_value": 9440.012041771139,
       "strategy_pct": 100.0,
       "locker_pct": 0.0,
       "strategy_sources": {
         "l1": {
           "amount": 19159230162172200574585,
-          "usd": 2928.53
+          "usd": 8442.89335823078
         },
         "l2": {
           "amount": 2262734532626520252807,
-          "usd": 345.86,
+          "usd": 997.1186835403586,
           "chains": [
             {
               "chain": "Sonic",
               "amount": 2262734532626520211456,
-              "usd": 345.86,
+              "usd": 997.1186835403586,
               "txs": [
                 "0x94467b14715712e625a46957c6c91d7453eeec95d5fed1808708ad0370b6c5aa"
               ]
@@ -86,7 +86,7 @@
   "l2_chains": [
     {
       "chain": "Sonic",
-      "usd": 345.86
+      "usd": 997.1186835403586
     }
   ]
 }
