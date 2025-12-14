@@ -1,0 +1,84 @@
+{
+  "type": "lockers_strats",
+  "period": {
+    "start": "2025-12-11T00:00:00+01:00",
+    "end": "2025-12-17T23:59:59+01:00",
+    "week": "2025-W50"
+  },
+  "generated_at": "2025-12-14T22:06:12.564115",
+  "totals": {
+    "total_usd": 11572.28,
+    "strategy_usd": 10522.17,
+    "locker_usd": 1050.11,
+    "total_strategy_l1_usd": 8307.02,
+    "total_strategy_l2_usd": 2215.15
+  },
+  "tokens": [
+    {
+      "symbol": "CRV",
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "protocol": "Crv",
+      "amount": 24270.526325828952,
+      "usd_value": 10522.174437232261,
+      "strategy_pct": 100.0,
+      "locker_pct": 0.0,
+      "strategy_sources": {
+        "l1": {
+          "amount": 19161043297769336357937,
+          "usd": 8307.02
+        },
+        "l2": {
+          "amount": 5109483028059619572687,
+          "usd": 2215.15,
+          "chains": [
+            {
+              "chain": "Sonic",
+              "amount": 5109483028059619590144,
+              "usd": 2215.15,
+              "txs": [
+                "0x7fa58a7bae335bdc86222eadc68e1979c7fe88452595ae372a3fec2656acdc57",
+                "0x97eda909065f132b319d0f8ca17363ce8eb2db91e3486cdb3c54e4b0ff9a3d0b"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "symbol": "crvUSD",
+      "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+      "protocol": "Curve",
+      "amount": 691.4301771155582,
+      "usd_value": 755.8086907737204,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "wstETH",
+      "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "protocol": "f(x)",
+      "amount": 0.03738291829132165,
+      "usd_value": 155.96274529473388,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "USDC",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "protocol": "Balancer",
+      "amount": 126.426711,
+      "usd_value": 138.33622769928624,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    }
+  ],
+  "usdc_txs": [
+    "0x3b14fb64e0eeedf21dce1ac01319de2d576bf8c64c6cf3e28f350af23ec4b454"
+  ],
+  "l2_chains": [
+    {
+      "chain": "Sonic",
+      "usd": 2215.15
+    }
+  ]
+}
