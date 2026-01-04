@@ -1,118 +1,34 @@
 {
   "type": "votemarket_fees",
   "period": {
-    "start": "2026-01-01T04:15:35+01:00",
-    "end": "2026-01-02T16:34:23+01:00",
+    "start": "2026-01-02T16:34:23+01:00",
+    "end": "2026-01-04T04:48:11+01:00",
     "week": "2026-W01"
   },
-  "generated_at": "2026-01-04T18:52:15.906391",
+  "generated_at": "2026-01-04T18:54:27.756796",
   "totals": {
-    "total_usd": 25474.83
+    "total_usd": 2233.92
   },
   "chains": [
     {
       "chain": "Ethereum",
       "chain_id": 1,
-      "total_usd": 25474.83,
-      "latest_tx": "0x217189fe4f4e973e12f9027bb58c7bf75fd103c84a169478f0053344b490fd51",
+      "total_usd": 1699.62,
+      "latest_tx": "0x73419f51c65a1395c706e0f10efdf87ac8a909cebf49e28bd2c803587865da47",
       "tokens": [
-        {
-          "symbol": "SPELL",
-          "address": "0x090185f2135308bad17527004364ebcc2d37e5f6",
-          "amount": 38698232.61508838,
-          "usd_value": 9933.08,
-          "transfers": 2,
-          "platforms": {
-            "Curve": 100.0
-          }
-        },
-        {
-          "symbol": "USDC",
-          "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-          "amount": 4888.789035,
-          "usd_value": 4888.4,
-          "transfers": 2,
-          "platforms": {
-            "Curve": 98.96955122992847,
-            "FXN": 1.0304487700715281
-          }
-        },
-        {
-          "symbol": "ALCX",
-          "address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
-          "amount": 320.1619668773964,
-          "usd_value": 2448.21,
-          "transfers": 1,
-          "platforms": {
-            "Curve": 100.0
-          }
-        },
-        {
-          "symbol": "YB",
-          "address": "0x01791f726b4103694969820be083196cc7c045ff",
-          "amount": 4251.860737985086,
-          "usd_value": 1732.77,
-          "transfers": 1,
-          "platforms": {
-            "Curve": 100.0
-          }
-        },
-        {
-          "symbol": "WFRAX",
-          "address": "0x04acaf8d2865c0714f79da09645c13fd2888977f",
-          "amount": 2031.0826067733137,
-          "usd_value": 1279.8,
-          "transfers": 1,
-          "platforms": {
-            "Curve": 99.28916892047698,
-            "FXN": 0.710831079523007
-          }
-        },
-        {
-          "symbol": "DOLA",
-          "address": "0x865377367054516e17014ccded1e7d814edc9ce4",
-          "amount": 1210.7945476627085,
-          "usd_value": 1207.99,
-          "transfers": 1,
-          "platforms": {
-            "Curve": 100.0
-          }
-        },
         {
           "symbol": "CRVUSD",
           "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
           "amount": 898.7380513804139,
-          "usd_value": 898.35,
+          "usd_value": 899.3,
           "transfers": 1,
-          "platforms": {
-            "Curve": 100.0
-          }
+          "platforms": {}
         },
         {
-          "symbol": "INV",
-          "address": "0x41d5d79431a913c4ae7d69a668ecdfe5ff9dfb68",
-          "amount": 26.182199418865846,
-          "usd_value": 746.71,
-          "transfers": 1,
-          "platforms": {
-            "Curve": 100.0
-          }
-        },
-        {
-          "symbol": "OGN",
-          "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
-          "amount": 18794.000969669207,
-          "usd_value": 580.25,
-          "transfers": 1,
-          "platforms": {
-            "Curve": 100.0
-          }
-        },
-        {
-          "symbol": "RSUP",
-          "address": "0x419905009e4656fdc02418c7df35b1e61ed5f726",
-          "amount": 1316.940424734098,
-          "usd_value": 303.47,
+          "symbol": "USDC",
+          "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+          "amount": 306.573124,
+          "usd_value": 306.52,
           "transfers": 1,
           "platforms": {
             "Curve": 100.0
@@ -122,113 +38,73 @@
           "symbol": "MUSD",
           "address": "0xdd468a1ddc392dcdbef6db6e34e89aa338f9f186",
           "amount": 305.46609808217204,
-          "usd_value": 303.05,
+          "usd_value": 303.38,
+          "transfers": 1,
+          "platforms": {}
+        },
+        {
+          "symbol": "SPELL",
+          "address": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+          "amount": 298959.92677303375,
+          "usd_value": 76.54,
           "transfers": 1,
           "platforms": {
             "Curve": 100.0
-          }
-        },
-        {
-          "symbol": "WETH",
-          "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-          "amount": 0.09635367071166942,
-          "usd_value": 296.14,
-          "transfers": 1,
-          "platforms": {
-            "FXN": 36.56658112235993,
-            "Curve": 63.433418877640065
           }
         },
         {
           "symbol": "CRV",
           "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
-          "amount": 430.1218822027066,
-          "usd_value": 172.44,
+          "amount": 141.27473642968684,
+          "usd_value": 60.33,
           "transfers": 1,
           "platforms": {
             "Curve": 100.0
           }
         },
         {
-          "symbol": "SDT",
-          "address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
-          "amount": 686.1255408307252,
-          "usd_value": 160.59,
+          "symbol": "CVX",
+          "address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+          "amount": 23.16440517540114,
+          "usd_value": 53.55,
           "transfers": 1,
           "platforms": {
-            "Curve": 89.68025015256814,
-            "Balancer": 10.319749847431869
+            "Curve": 100.0
           }
-        },
+        }
+      ]
+    },
+    {
+      "chain": "Base",
+      "chain_id": 8453,
+      "total_usd": 534.3,
+      "latest_tx": "0xf7fb18dd405b66dd51488a7dc3adc369846a4ee2c074fa43274f768c150cda8e",
+      "tokens": [
         {
-          "symbol": "GHO",
-          "address": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
-          "amount": 98.09840702670927,
-          "usd_value": 98.04,
-          "transfers": 1,
-          "platforms": {
-            "FXN": 100.0
-          }
-        },
-        {
-          "symbol": "USDT",
-          "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-          "amount": 91.807922,
-          "usd_value": 91.74,
+          "symbol": "CRV",
+          "address": "0x8ee73c484a26e0a5df2ee2a4960b789967dd0415",
+          "amount": 970.38971932054,
+          "usd_value": 414.36,
           "transfers": 1,
           "platforms": {
             "Curve": 100.0
           }
         },
         {
-          "symbol": "ynRWAx",
-          "address": "0x01ba69727e2860b37bc1a2bd56999c1afb4c15d8",
-          "amount": 79.99999999999993,
-          "usd_value": 81.85,
+          "symbol": "USDp",
+          "address": "0x76a9a0062ec6712b99b4f63bd2b4270185759dd5",
+          "amount": 59.99999999999994,
+          "usd_value": 59.99,
           "transfers": 1,
-          "platforms": {
-            "Curve": 100.0
-          }
+          "platforms": {}
         },
         {
-          "symbol": "SD",
-          "address": "0x30d20208d987713f46dfd34ef128bb16c404d10f",
-          "amount": 326.6089098881861,
-          "usd_value": 76.76,
+          "symbol": "USDC",
+          "address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+          "amount": 59.961082,
+          "usd_value": 59.95,
           "transfers": 1,
-          "platforms": {
-            "Curve": 100.0
-          }
-        },
-        {
-          "symbol": "OUSD",
-          "address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86",
-          "amount": 69.78664764440217,
-          "usd_value": 69.62,
-          "transfers": 1,
-          "platforms": {
-            "Curve": 100.0
-          }
-        },
-        {
-          "symbol": "",
-          "address": "0x7159cc276d7d17ab4b3beb19959e1f39368a45ba",
-          "amount": 56182.722764629136,
-          "usd_value": 55.47,
-          "transfers": 1,
-          "platforms": {
-            "Curve": 100.0
-          }
-        },
-        {
-          "symbol": "FXS",
-          "address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
-          "amount": 79.53540472118512,
-          "usd_value": 50.1,
-          "transfers": 1,
-          "platforms": {
-            "Curve": 100.0
-          }
+          "platforms": {}
         }
       ]
     }
@@ -238,32 +114,23 @@
       "platform": "Curve",
       "chains": [
         "Arbitrum",
+        "Base",
         "Ethereum"
       ],
-      "tokens": 35,
-      "transfers": 402,
-      "usd_value": 25192.46
+      "tokens": 11,
+      "transfers": 71,
+      "usd_value": 911.3
     },
     {
       "platform": "FXN",
       "chains": [
         "Ethereum"
       ],
-      "tokens": 5,
-      "transfers": 11,
-      "usd_value": 265.79
-    },
-    {
-      "platform": "Balancer",
-      "chains": [
-        "Arbitrum",
-        "Ethereum"
-      ],
-      "tokens": 2,
-      "transfers": 3,
-      "usd_value": 16.57
+      "tokens": 1,
+      "transfers": 18,
+      "usd_value": 0.0
     }
   ],
   "fee_recipient": "0x175E94Ad5029e62Ef876d94eB15F822c8027E4c0",
-  "usdc_tx": "0x73419f51c65a1395c706e0f10efdf87ac8a909cebf49e28bd2c803587865da47"
+  "usdc_tx": "0xfa80224a0e10166cb818d9ac1b92c8d66ad1b7aa7f06244c1a50b027bc2ac7da"
 }
