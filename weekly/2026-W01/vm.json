@@ -5,15 +5,15 @@
     "end": "2026-01-04T04:48:11+01:00",
     "week": "2026-W01"
   },
-  "generated_at": "2026-01-04T18:54:27.756796",
+  "generated_at": "2026-01-05T12:16:15.331559",
   "totals": {
-    "total_usd": 2233.92
+    "total_usd": 12197.944073950612
   },
   "chains": [
     {
       "chain": "Ethereum",
       "chain_id": 1,
-      "total_usd": 1699.62,
+      "total_usd": 11663.64407395061,
       "latest_tx": "0x73419f51c65a1395c706e0f10efdf87ac8a909cebf49e28bd2c803587865da47",
       "tokens": [
         {
@@ -45,9 +45,9 @@
         {
           "symbol": "SPELL",
           "address": "0x090185f2135308bad17527004364ebcc2d37e5f6",
-          "amount": 298959.92677303375,
-          "usd_value": 76.54,
-          "transfers": 1,
+          "amount": 38547452.64781071,
+          "usd_value": 9894.183167908588,
+          "transfers": 2,
           "platforms": {
             "Curve": 100.0
           }
@@ -71,6 +71,22 @@
           "platforms": {
             "Curve": 100.0
           }
+        },
+        {
+          "symbol": "OUSD",
+          "address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86",
+          "amount": 69.78664764440217,
+          "usd_value": 69.6196354404154,
+          "transfers": 1,
+          "platforms": {}
+        },
+        {
+          "symbol": "SD",
+          "address": "0x30d20208d987713f46dfd34ef128bb16c404d10f",
+          "amount": 326.6089098881861,
+          "usd_value": 76.76127060160977,
+          "transfers": 1,
+          "platforms": {}
         }
       ]
     },
@@ -132,5 +148,9 @@
     }
   ],
   "fee_recipient": "0x175E94Ad5029e62Ef876d94eB15F822c8027E4c0",
-  "usdc_tx": "0xfa80224a0e10166cb818d9ac1b92c8d66ad1b7aa7f06244c1a50b027bc2ac7da"
+  "usdc_tx": "0xfa80224a0e10166cb818d9ac1b92c8d66ad1b7aa7f06244c1a50b027bc2ac7da",
+  "_patched": true,
+  "_patched_txs": [
+    "0xe6333bc6b7c061aed0ff1a60a2b22ede9b44435628d698e4132ffc30e82c417a"
+  ]
 }
