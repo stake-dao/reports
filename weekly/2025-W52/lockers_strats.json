@@ -87,15 +87,6 @@
       "locker_pct": 100.0
     },
     {
-      "symbol": "cbBTC",
-      "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
-      "protocol": "YieldBasis",
-      "amount": 0.00212935,
-      "usd_value": 186.2252697565255,
-      "strategy_pct": 0.0,
-      "locker_pct": 100.0
-    },
-    {
       "symbol": "wstETH",
       "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
       "protocol": "f(x)",
@@ -122,15 +113,6 @@
       "strategy_pct": 0.0,
       "locker_pct": 100.0
     },
-    {
-      "symbol": "tBTC",
-      "address": "0x18084fba666a33d37592fa2633fd49a74dd93a88",
-      "protocol": "YieldBasis",
-      "amount": 0.001204031694323236,
-      "usd_value": 105.29605861468602,
-      "strategy_pct": 0.0,
-      "locker_pct": 100.0
-    }
   ],
   "usdc_txs": [
     "0xc2e0bc1905a1571fd8b288634ff3575789e198d9ccf8e8a12ae49a59bc4a6404",
