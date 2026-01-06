@@ -81,8 +81,8 @@
       "symbol": "crvUSD",
       "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
       "protocol": "Curve",
-      "amount": 1632.713445177015,
-      "usd_value": 1613.8934371028577,
+      "amount": 816,
+      "usd_value": 812.67,
       "strategy_pct": 0.0,
       "locker_pct": 100.0
     },
