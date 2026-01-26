@@ -1,0 +1,136 @@
+{
+  "type": "lockers_strats",
+  "period": {
+    "start": "2026-01-22T00:00:00+01:00",
+    "end": "2026-01-28T23:59:59+01:00",
+    "week": "2026-W04"
+  },
+  "generated_at": "2026-01-26T11:09:19.380278",
+  "totals": {
+    "total_usd": 16707.83,
+    "strategy_usd": 15414.69,
+    "locker_usd": 1293.14,
+    "total_strategy_l1_usd": 13893.38,
+    "total_strategy_l2_usd": 1521.31
+  },
+  "tokens": [
+    {
+      "symbol": "CRV",
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "protocol": "Crv",
+      "amount": 45535.35722478575,
+      "usd_value": 15414.68676974572,
+      "strategy_pct": 100.0,
+      "locker_pct": 0.0,
+      "strategy_sources": {
+        "l1": {
+          "amount": 41041381416946852532260,
+          "usd": 13893.38
+        },
+        "l2": {
+          "amount": 4493975807838902448092,
+          "usd": 1521.31,
+          "chains": [
+            {
+              "chain": "Sonic",
+              "amount": 1399258077818058440704,
+              "usd": 473.68,
+              "txs": [
+                "0x8883df7e3244d74d35f540bc7f9910143a766d8a7b8a4948d772d2251ec645ad",
+                "0xc3366666086f65ed8e5ac4c19754a310ecf51df0ad9459ab36505ff157558b5a"
+              ]
+            },
+            {
+              "chain": "Base",
+              "amount": 825484805666630008832,
+              "usd": 279.44,
+              "txs": [
+                "0x3f0b02d3f5645acd85c21717c5891d2c6448cde19688d42e37496b1bcc107655",
+                "0x0c3dced0a31ba5bf86cefe397eef7da87a97b0162af81ed349a00198d23e6131"
+              ]
+            },
+            {
+              "chain": "Fraxtal",
+              "amount": 616802448299765923840,
+              "usd": 208.8,
+              "txs": [
+                "0x3f0b02d3f5645acd85c21717c5891d2c6448cde19688d42e37496b1bcc107655",
+                "0x0c3dced0a31ba5bf86cefe397eef7da87a97b0162af81ed349a00198d23e6131"
+              ]
+            },
+            {
+              "chain": "Optimism",
+              "amount": 429424012056468914176,
+              "usd": 145.37,
+              "txs": [
+                "0x3f0b02d3f5645acd85c21717c5891d2c6448cde19688d42e37496b1bcc107655",
+                "0x0c3dced0a31ba5bf86cefe397eef7da87a97b0162af81ed349a00198d23e6131"
+              ]
+            },
+            {
+              "chain": "Arbitrum",
+              "amount": 1223006463997979131904,
+              "usd": 414.01,
+              "txs": [
+                "0x42077963fb4379b262f96f0f3665d990074df6a424ad29239b6a6b3b1396b605",
+                "0x5f8a83a1a88d56f65e8e31b63f0a2d5e59460ee1554f3f2261e0bce06016aa27"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "symbol": "crvUSD",
+      "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+      "protocol": "Curve",
+      "amount": 931.1401307657411,
+      "usd_value": 901.8254185134758,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "BAL",
+      "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+      "protocol": "Bal",
+      "amount": 585.3716141294584,
+      "usd_value": 277.924555327748,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "wstETH",
+      "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "protocol": "f(x)",
+      "amount": 0.032867573268260765,
+      "usd_value": 113.39208841305489,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    }
+  ],
+  "usdc_txs": [
+    "0x42d74fa0774c5bd00753b4293fdbb27f1793456380909ac8520d6bbbbc9a0bd4"
+  ],
+  "l2_chains": [
+    {
+      "chain": "Sonic",
+      "usd": 473.68
+    },
+    {
+      "chain": "Arbitrum",
+      "usd": 414.01
+    },
+    {
+      "chain": "Base",
+      "usd": 279.44
+    },
+    {
+      "chain": "Fraxtal",
+      "usd": 208.8
+    },
+    {
+      "chain": "Optimism",
+      "usd": 145.37
+    }
+  ]
+}
