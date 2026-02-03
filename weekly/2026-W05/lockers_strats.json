@@ -1,0 +1,106 @@
+{
+  "type": "lockers_strats",
+  "period": {
+    "start": "2026-01-29T00:00:00+01:00",
+    "end": "2026-02-04T23:59:59+01:00",
+    "week": "2026-W05"
+  },
+  "generated_at": "2026-02-03T07:40:43.592657",
+  "totals": {
+    "total_usd": 10875.71,
+    "strategy_usd": 8904.38,
+    "locker_usd": 1971.33,
+    "total_strategy_l1_usd": 8344.97,
+    "total_strategy_l2_usd": 559.42
+  },
+  "tokens": [
+    {
+      "symbol": "CRV",
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "protocol": "Crv",
+      "amount": 30612.487386628654,
+      "usd_value": 8787.30103145416,
+      "strategy_pct": 100.0,
+      "locker_pct": 0.0,
+      "strategy_sources": {
+        "l1": {
+          "amount": 28663636795022207637375,
+          "usd": 8227.88
+        },
+        "l2": {
+          "amount": 1948850591606446205057,
+          "usd": 559.42,
+          "chains": [
+            {
+              "chain": "Sonic",
+              "amount": 807218706989131890688,
+              "usd": 231.71,
+              "txs": [
+                "0x1ac1dfd0700ed9c690cf14012c4e8f6bb4583ebb5742785cbfee33c939904bf4"
+              ]
+            },
+            {
+              "chain": "Arbitrum",
+              "amount": 1141631884617314336768,
+              "usd": 327.7,
+              "txs": [
+                "0xd1b99070a56c125a9014524abea0597a695c4bd06ee660a3b5917b53507c9c71"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    {
+      "symbol": "crvUSD",
+      "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+      "protocol": "Curve",
+      "amount": 1863.4443964813167,
+      "usd_value": 1848.9120256848857,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "USDC",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "protocol": "Balancer",
+      "amount": 122.931303,
+      "usd_value": 122.41897719252007,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "PENDLE",
+      "address": "0x808507121b80c02388fad14726482e061b8da827",
+      "protocol": "Pendle",
+      "amount": 73.60719683965766,
+      "usd_value": 117.08276766843215,
+      "strategy_pct": 100.0,
+      "locker_pct": 0.0,
+      "strategy_sources": {
+        "l1": {
+          "amount": 73607196839657660416,
+          "usd": 117.08
+        },
+        "l2": {
+          "amount": 0,
+          "usd": 0.0,
+          "chains": []
+        }
+      }
+    }
+  ],
+  "usdc_txs": [
+    "0x51163c72f8408eb0b1069c05ed7ba34b8e9697efedb2e2f3a81e72a6e8e9e52a"
+  ],
+  "l2_chains": [
+    {
+      "chain": "Arbitrum",
+      "usd": 327.7
+    },
+    {
+      "chain": "Sonic",
+      "usd": 231.71
+    }
+  ]
+}
