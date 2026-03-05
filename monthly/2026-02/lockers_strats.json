@@ -5,36 +5,36 @@
     "end": "2026-02-28T23:59:59+01:00",
     "month": "2026-02"
   },
-  "generated_at": "2026-03-02T12:10:08.815870",
+  "generated_at": "2026-03-05T16:44:15.911710",
   "totals": {
-    "total_usd": 39711.7,
-    "strategy_usd": 31027.64,
-    "locker_usd": 8789.73,
-    "total_strategy_l1_usd": 19835.62,
-    "total_strategy_l2_usd": 11192.02
+    "total_usd": 53521.03,
+    "strategy_usd": 40436.85,
+    "locker_usd": 13084.18,
+    "total_strategy_l1_usd": 29419.75,
+    "total_strategy_l2_usd": 11017.09
   },
   "tokens": [
     {
       "symbol": "CRV",
       "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
       "protocol": "Crv",
-      "amount": 120721.5444030384,
-      "usd_value": 30797.15367952569,
+      "amount": 160107.08380618022,
+      "usd_value": 40206.360864330316,
       "strategy_pct": 100.0,
       "locker_pct": 0.0,
       "strategy_sources": {
         "l1": {
-          "amount": 76850011303961437200515,
-          "usd": 19605.13
+          "amount": 116235550707103279407235,
+          "usd": 29189.27
         },
         "l2": {
           "amount": 43871533099076960853885,
-          "usd": 11192.02,
+          "usd": 11017.09,
           "chains": [
             {
               "chain": "Sonic",
               "amount": 1116415964516649926656,
-              "usd": 284.81,
+              "usd": 280.36,
               "txs": [
                 "0x9ce26c340c74f80423c1beaa8692bcb2e029e85997f6b650dc30de78ff874cf5",
                 "0x3480c3458c228d6cdae19d02884efd551b9f086dae6cef02d2696c9886f2c803",
@@ -44,7 +44,7 @@
             {
               "chain": "Arbitrum",
               "amount": 4546943177423453683712,
-              "usd": 1159.97,
+              "usd": 1141.84,
               "txs": [
                 "0x898f8f2965cdd670845d8073b3bc0e4faf562fcb1e75d2f28a3eecdd4f52808e",
                 "0x357dbdf5758d5506bc4e8d9a76fdb04f8985f187cd57048267d2d04bfa360ec4",
@@ -54,7 +54,7 @@
             {
               "chain": "Base",
               "amount": 33481992959197400006656,
-              "usd": 8541.56,
+              "usd": 8408.05,
               "txs": [
                 "0x0a6e24863024bf0b371bc54ff33837dce85ad5a3300bba7ab97e408f71bb49b0",
                 "0xb542ee9181f50043fecb947f650865f0dacfd7ba4af9da389192ae98126a9257",
@@ -64,7 +64,7 @@
             {
               "chain": "Fraxtal",
               "amount": 2489516927136098156544,
-              "usd": 635.1,
+              "usd": 625.17,
               "txs": [
                 "0x0a6e24863024bf0b371bc54ff33837dce85ad5a3300bba7ab97e408f71bb49b0",
                 "0x57e275020ca0ce496cf6127f35aec8d5163e1bdcb7a8ec64f0e85272b17f00fe",
@@ -74,7 +74,7 @@
             {
               "chain": "Optimism",
               "amount": 2236664070803357433856,
-              "usd": 570.59,
+              "usd": 561.67,
               "txs": [
                 "0x0a6e24863024bf0b371bc54ff33837dce85ad5a3300bba7ab97e408f71bb49b0",
                 "0x0ee48787fe113ce3111637fb47713e201075d61dea311b7db14418582db80f66",
@@ -89,8 +89,17 @@
       "symbol": "crvUSD",
       "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
       "protocol": "Curve",
-      "amount": 8490.46910857327,
-      "usd_value": 8440.011543527993,
+      "amount": 9076.120402891314,
+      "usd_value": 9024.97596686823,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "WBTC",
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "protocol": "YieldBasis",
+      "amount": 0.05012464,
+      "usd_value": 3270.3416858921387,
       "strategy_pct": 0.0,
       "locker_pct": 100.0
     },
@@ -100,6 +109,15 @@
       "protocol": "Balancer",
       "amount": 244.940284,
       "usd_value": 244.05309661985717,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "wstETH",
+      "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "protocol": "f(x)",
+      "amount": 0.09801219539317756,
+      "usd_value": 238.48876262356538,
       "strategy_pct": 0.0,
       "locker_pct": 100.0
     },
@@ -124,68 +142,52 @@
       }
     },
     {
-      "symbol": "wstETH",
-      "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
-      "protocol": "f(x)",
-      "amount": 0.03996676021339712,
-      "usd_value": 101.67754616316175,
-      "strategy_pct": 0.0,
-      "locker_pct": 100.0
-    },
-    {
       "symbol": "WETH",
       "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
       "protocol": "Yb",
-      "amount": 0.001944622118273321,
-      "usd_value": 3.8429828779904036,
+      "amount": 0.09364468055705319,
+      "usd_value": 180.29229460774266,
       "strategy_pct": 0.0,
       "locker_pct": 100.0
     },
     {
-      "symbol": "cbBTC",
-      "address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf",
-      "protocol": "YieldBasis",
-      "amount": 2.21e-06,
-      "usd_value": 0.1472052951727481,
-      "strategy_pct": 0.0,
-      "locker_pct": 100.0
-    },
-    {
-      "symbol": "tBTC",
-      "address": "0x18084fba666a33d37592fa2633fd49a74dd93a88",
-      "protocol": "YieldBasis",
-      "amount": 2.35773229e-09,
-      "usd_value": 0.00015499903641922927,
+      "symbol": "BAL",
+      "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+      "protocol": "Bal",
+      "amount": 991.7980985125979,
+      "usd_value": 126.03064673169308,
       "strategy_pct": 0.0,
       "locker_pct": 100.0
     }
   ],
   "usdc_txs": [
     "0x51163c72f8408eb0b1069c05ed7ba34b8e9697efedb2e2f3a81e72a6e8e9e52a",
+    "0x8949a17a7a7cae136ee3b5e36dc5efa738dccacb29c063990dac930582010a23",
     "0x8a8819f4ec60b9a703abc7ed06dcdd16a53fba0468e91e3ace2cad6ce22f93ed",
     "0xb40ee7e7b3bbe79878fddcf029e3546f1294627f0f838b43e60e86033ba559ae",
-    "0xb891d944a94c5c99afa836271f1d2e776a62e03aef207c46def2167c20da92ee"
+    "0xb891d944a94c5c99afa836271f1d2e776a62e03aef207c46def2167c20da92ee",
+    "0x8bc497b46175edffe7eaf9cb52778893a2e71f826cce72ec401b0af993b87ce3"
   ],
   "l2_chains": [
     {
       "chain": "Base",
-      "usd": 8541.56
+      "usd": 8408.05
     },
     {
       "chain": "Arbitrum",
-      "usd": 1159.97
+      "usd": 1141.84
     },
     {
       "chain": "Fraxtal",
-      "usd": 635.1
+      "usd": 625.17
     },
     {
       "chain": "Optimism",
-      "usd": 570.59
+      "usd": 561.67
     },
     {
       "chain": "Sonic",
-      "usd": 284.81
+      "usd": 280.36
     }
   ]
 }
