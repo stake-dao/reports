@@ -144,7 +144,7 @@
     {
       "symbol": "WETH",
       "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
-      "protocol": "Yb",
+      "protocol": "YieldBasis",
       "amount": 0.09364468055705319,
       "usd_value": 180.29229460774266,
       "strategy_pct": 0.0,
