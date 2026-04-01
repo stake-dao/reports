@@ -1,0 +1,118 @@
+{
+  "type": "lockers_strats",
+  "period": {
+    "start": "2026-03-01T00:00:00+02:00",
+    "end": "2026-03-31T23:59:59+02:00",
+    "month": "2026-03"
+  },
+  "generated_at": "2026-04-01T22:01:49.047388",
+  "totals": {
+    "total_usd": 34879.46,
+    "strategy_usd": 29545.16,
+    "locker_usd": 5334.3,
+    "total_strategy_l1_usd": 29545.16,
+    "total_strategy_l2_usd": 0.0
+  },
+  "tokens": [
+    {
+      "symbol": "CRV",
+      "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+      "protocol": "Crv",
+      "amount": 168320.69517135923,
+      "usd_value": 29435.550968998938,
+      "strategy_pct": 100.0,
+      "locker_pct": 0.0,
+      "strategy_sources": {
+        "l1": {
+          "amount": 168320695171359247958016,
+          "usd": 29435.55
+        },
+        "l2": {
+          "amount": 0,
+          "usd": 0.0,
+          "chains": []
+        }
+      }
+    },
+    {
+      "symbol": "crvUSD",
+      "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
+      "protocol": "Curve",
+      "amount": 3499.5629405096247,
+      "usd_value": 2897.639089111226,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "WBTC",
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "protocol": "YieldBasis",
+      "amount": 0.06799821,
+      "usd_value": 1184.5761957316827,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "BAL",
+      "address": "0xba100000625a3754423978a60c9317c58a424e3d",
+      "protocol": "Unknown",
+      "amount": 4466.595177815966,
+      "usd_value": 515.6232321856226,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "USDC",
+      "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+      "protocol": "Balancer",
+      "amount": 275.359837,
+      "usd_value": 274.4497389368623,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "WETH",
+      "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "protocol": "YieldBasis",
+      "amount": 0.21376642668448587,
+      "usd_value": 238.90311457858866,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "wstETH",
+      "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+      "protocol": "f(x)",
+      "amount": 0.14332276471494468,
+      "usd_value": 223.1080800650991,
+      "strategy_pct": 0.0,
+      "locker_pct": 100.0
+    },
+    {
+      "symbol": "PENDLE",
+      "address": "0x808507121b80c02388fad14726482e061b8da827",
+      "protocol": "Pendle",
+      "amount": 94.71818195158639,
+      "usd_value": 109.60776639198173,
+      "strategy_pct": 100.0,
+      "locker_pct": 0.0,
+      "strategy_sources": {
+        "l1": {
+          "amount": 94718181951586385920,
+          "usd": 109.61
+        },
+        "l2": {
+          "amount": 0,
+          "usd": 0.0,
+          "chains": []
+        }
+      }
+    }
+  ],
+  "usdc_txs": [
+    "0x5abb45e9e96fe41e1b3f93ea65b1f55be8fae77fa36ebfb83202adb5ea45d146",
+    "0xc6cacaff2a8454a2ffa4b209df7aa1dc868a7bfbf295decc52e5c6d678aa156d",
+    "0x18dae1cd2c360a8e208e9696d4d36f3ede4dcd5a73b51ff85ea8388b1dd53399",
+    "0xfbf9a787697f18fc7c6bcb70679442333d0c8fe583831a224cb6fd1d06e6c300"
+  ]
+}
