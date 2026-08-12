@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "chain_id": 1,
+  "registry": "0x1111735980d34f3276d8b5247da294540f907aa2",
+  "block": 25739953,
+  "timestamp": 1786550171,
+  "integrators": [
+    {
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "feeBps": 10000,
+      "payout": "0x9d5df30f475cea915b1ed4c0cca59255c897b61b",
+      "active": true,
+      "activeSince": 1785335819,
+      "activationBlock": 25639132,
+      "activationTransaction": "0x2c02b3c6d870a08c3000bdbaa239c628b45bb5781d78df939724216f6c1df180",
+      "updatedAt": 1785335819,
+      "updatedBlock": 25639132,
+      "updatedTransaction": "0x2c02b3c6d870a08c3000bdbaa239c628b45bb5781d78df939724216f6c1df180"
+    }
+  ]
+}
