@@ -2,8 +2,8 @@
   "schema_version": 1,
   "chain_id": 1,
   "registry": "0x1111735980d34f3276d8b5247da294540f907aa2",
-  "block": 25773670,
-  "timestamp": 1786956071,
+  "block": 25802878,
+  "timestamp": 1787307719,
   "integrators": [
     {
       "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
