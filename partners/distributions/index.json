@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-08-21T10:23:35+00:00",
+  "distributions": [
+    {
+      "root": "0xc9f650a73e50c5b04c7664f8d70064549f36fef14ed31c6265bf7d59fd31022f",
+      "epoch": 1787184000,
+      "generated_at": "2026-08-21T10:23:35+00:00",
+      "reward": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+      "new_claim_wei": "44775410216107416489",
+      "source_earned_wei": "152143449648647819012",
+      "partner_count": 1,
+      "gauge_count": 1,
+      "chains": [
+        1,
+        10,
+        146,
+        252,
+        8453,
+        42161
+      ],
+      "skipped_chains": [],
+      "report_path": "partners/1787184000/report-0xc9f650a73e50c5b04c7664f8d70064549f36fef14ed31c6265bf7d59fd31022f.json",
+      "merkle_path": "partners/1787184000/merkle.json"
+    }
+  ]
+}
