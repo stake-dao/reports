@@ -2,8 +2,8 @@
   "schema_version": 1,
   "chain_id": 1,
   "registry": "0x1111735980d34f3276d8b5247da294540f907aa2",
-  "block": 25804674,
-  "timestamp": 1787329307,
+  "block": 25820708,
+  "timestamp": 1787522435,
   "integrators": [
     {
       "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
@@ -16,6 +16,18 @@
       "updatedAt": 1785335819,
       "updatedBlock": 25639132,
       "updatedTransaction": "0x2c02b3c6d870a08c3000bdbaa239c628b45bb5781d78df939724216f6c1df180"
+    },
+    {
+      "referrer": "0x98949521ba2401b791f8de32ece6ec22c6cab83e",
+      "feeBps": 5000,
+      "payout": "0xf56d660138815fc5d7a06cd0e1630225e788293d",
+      "active": true,
+      "activeSince": 1787377547,
+      "activationBlock": 25808678,
+      "activationTransaction": "0xc0ca6ffabb2a87de66e7bc87d4a549f5741cc10aa3aaa1efa1ed0ba0a6960e87",
+      "updatedAt": 1787377547,
+      "updatedBlock": 25808678,
+      "updatedTransaction": "0xc0ca6ffabb2a87de66e7bc87d4a549f5741cc10aa3aaa1efa1ed0ba0a6960e87"
     }
   ]
 }
