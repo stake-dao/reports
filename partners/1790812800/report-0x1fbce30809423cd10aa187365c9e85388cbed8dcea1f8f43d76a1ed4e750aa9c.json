@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "epoch": 1790812800,
+  "generated_at": "2026-10-07T15:24:11+00:00",
+  "root": "0x1fbce30809423cd10aa187365c9e85388cbed8dcea1f8f43d76a1ed4e750aa9c",
+  "reward": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+  "total_new_wei": "6816308993726656423",
+  "payouts": {
+    "0x9D5Df30F475CEA915b1ed4C0CCa59255C897b61B": {
+      "cumulative": "5782317178077839713322",
+      "new": "6816308993726656423"
+    }
+  },
+  "breakdown": [
+    {
+      "chain_id": 1,
+      "vault": "0x7053fa875c478045124ce3ef740a189b6037df91",
+      "window_from": 1791374459,
+      "window_to": 1791386639,
+      "protocol_fee_wei": "36455272481264393306",
+      "supply_seconds": "37185007070169172805955000",
+      "treasury_bps": 3334,
+      "referrers": {}
+    },
+    {
+      "chain_id": 1,
+      "vault": "0xde380abfb5a7117b92a868ebe828e560bebd1ecc",
+      "window_from": 1791374459,
+      "window_to": 1791386639,
+      "protocol_fee_wei": "34826752376956298089",
+      "supply_seconds": "36918369151993499956083256140",
+      "treasury_bps": 3334,
+      "referrers": {
+        "0x926df14a23be491164dcf93f4c468a50ef659d5b": {
+          "payout": "0x9d5df30f475cea915b1ed4c0cca59255c897b61b",
+          "fee_bps": 10000,
+          "balance_seconds": "21672709211249166113130093720",
+          "share_wei": "6816308993726656423"
+        }
+      }
+    }
+  ]
+}
