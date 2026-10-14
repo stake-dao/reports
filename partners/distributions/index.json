@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-11T22:01:47+00:00",
+  "updated_at": "2026-10-14T12:02:59+00:00",
   "distributions": [
     {
       "root": "0xc9f650a73e50c5b04c7664f8d70064549f36fef14ed31c6265bf7d59fd31022f",
@@ -274,6 +274,27 @@
       "skipped_chains": [],
       "report_path": "partners/1791417600/report-0x4ea090a393c756889171c50eb077b59baf04af5c05e6ec425c2148bfd1979fd2.json",
       "merkle_path": "partners/1791417600/merkle-0x4ea090a393c756889171c50eb077b59baf04af5c05e6ec425c2148bfd1979fd2.json"
+    },
+    {
+      "root": "0x81d3824776ba303821770b449c642696c9031d4ab4e9a884f146e92506dbb46b",
+      "epoch": 1791417600,
+      "generated_at": "2026-10-14T12:02:59+00:00",
+      "reward": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+      "new_claim_wei": "305627082855706762210",
+      "source_earned_wei": "1321645451207236555922",
+      "partner_count": 1,
+      "gauge_count": 2,
+      "chains": [
+        1,
+        10,
+        146,
+        252,
+        8453,
+        42161
+      ],
+      "skipped_chains": [],
+      "report_path": "partners/1791417600/report-0x81d3824776ba303821770b449c642696c9031d4ab4e9a884f146e92506dbb46b.json",
+      "merkle_path": "partners/1791417600/merkle-0x81d3824776ba303821770b449c642696c9031d4ab4e9a884f146e92506dbb46b.json"
     }
   ]
 }
