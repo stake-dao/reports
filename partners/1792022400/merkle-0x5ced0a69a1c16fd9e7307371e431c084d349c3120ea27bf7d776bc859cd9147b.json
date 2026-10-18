@@ -1,0 +1,11 @@
+{
+  "root": "0x5ced0a69a1c16fd9e7307371e431c084d349c3120ea27bf7d776bc859cd9147b",
+  "reward": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+  "claims": {
+    "0x9D5Df30F475CEA915b1ed4C0CCa59255C897b61B": {
+      "cumulative": "7193168001689621113302",
+      "proof": []
+    }
+  },
+  "epoch": 1792022400
+}
