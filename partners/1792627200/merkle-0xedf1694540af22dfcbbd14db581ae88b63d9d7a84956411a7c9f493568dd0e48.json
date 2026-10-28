@@ -1,0 +1,19 @@
+{
+  "root": "0xedf1694540af22dfcbbd14db581ae88b63d9d7a84956411a7c9f493568dd0e48",
+  "reward": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+  "claims": {
+    "0x9D5Df30F475CEA915b1ed4C0CCa59255C897b61B": {
+      "cumulative": "8409941663475255916802",
+      "proof": [
+        "0x580d8a4cb73836f8b9371c7b8fc67efc09e12dfa7533bd6aad965ec6bcb56eca"
+      ]
+    },
+    "0xF56D660138815fC5d7a06cd0E1630225E788293D": {
+      "cumulative": "10169752460617632359",
+      "proof": [
+        "0x53acb3d88c0874666fa2e9f24ab88bd65786d2949bec0267ba1cbb8d78780317"
+      ]
+    }
+  },
+  "epoch": 1792627200
+}
