@@ -1,0 +1,171 @@
+{
+  "schema_version": 1,
+  "epoch": 1792627200,
+  "generated_at": "2026-10-28T12:01:59+00:00",
+  "root": "0xedf1694540af22dfcbbd14db581ae88b63d9d7a84956411a7c9f493568dd0e48",
+  "reward": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+  "total_new_wei": "249270546880045623977",
+  "payouts": {
+    "0x9D5Df30F475CEA915b1ed4C0CCa59255C897b61B": {
+      "cumulative": "8409941663475255916802",
+      "new": "239100794419427991618"
+    },
+    "0xF56D660138815fC5d7a06cd0E1630225E788293D": {
+      "cumulative": "10169752460617632359",
+      "new": "10169752460617632359"
+    }
+  },
+  "breakdown": [
+    {
+      "chain_id": 1,
+      "vault": "0x017ec76d2f32d018cbb0f9ae507d5e5f9bdcee3c",
+      "window_from": 1793017607,
+      "window_to": 1793188871,
+      "protocol_fee_wei": "183083822366756518780",
+      "supply_seconds": "788479045797758274549919877376",
+      "treasury_bps": 3334,
+      "referrers": {
+        "0x926df14a23be491164dcf93f4c468a50ef659d5b": {
+          "payout": "0x9d5df30f475cea915b1ed4c0cca59255c897b61b",
+          "fee_bps": 10000,
+          "balance_seconds": "767023578830964556064284299264",
+          "share_wei": "59379170284913561065"
+        }
+      }
+    },
+    {
+      "chain_id": 1,
+      "vault": "0x3bf225861cbb865a0abeccc8ba924748118276f3",
+      "window_from": 1793017607,
+      "window_to": 1793188871,
+      "protocol_fee_wei": "35442474253848195114",
+      "supply_seconds": "1442015235108342624708096",
+      "treasury_bps": 3334,
+      "referrers": {}
+    },
+    {
+      "chain_id": 1,
+      "vault": "0x543d3ee7cfa494e8ffcc18364d130c8eed4b90ad",
+      "window_from": 1793017607,
+      "window_to": 1793188871,
+      "protocol_fee_wei": "16090614142307281504",
+      "supply_seconds": "66283959721439004541099586304",
+      "treasury_bps": 3334,
+      "referrers": {}
+    },
+    {
+      "chain_id": 1,
+      "vault": "0x5e1dacdbef6bceba53600d0bce33fd30ee09fa82",
+      "window_from": 1793017607,
+      "window_to": 1793188871,
+      "protocol_fee_wei": "35488153754462451409",
+      "supply_seconds": "162043312323023502236174364672",
+      "treasury_bps": 3334,
+      "referrers": {}
+    },
+    {
+      "chain_id": 1,
+      "vault": "0x67ea89d21d449bf9183c0773f0d02af8545f810c",
+      "window_from": 1793017607,
+      "window_to": 1793188871,
+      "protocol_fee_wei": "25296731754158083125",
+      "supply_seconds": "139765162724146980801477933312",
+      "treasury_bps": 3334,
+      "referrers": {}
+    },
+    {
+      "chain_id": 1,
+      "vault": "0x6ea128d83bc4223a0d1e6e475cee85998acb6337",
+      "window_from": 1793017607,
+      "window_to": 1793188871,
+      "protocol_fee_wei": "341839381764797334092",
+      "supply_seconds": "149153064209539893201021156828",
+      "treasury_bps": 3334,
+      "referrers": {}
+    },
+    {
+      "chain_id": 1,
+      "vault": "0x7053fa875c478045124ce3ef740a189b6037df91",
+      "window_from": 1793017607,
+      "window_to": 1793188871,
+      "protocol_fee_wei": "740605745966206961758",
+      "supply_seconds": "521615174191555372289156832",
+      "treasury_bps": 3334,
+      "referrers": {}
+    },
+    {
+      "chain_id": 1,
+      "vault": "0x715aaac9b7c35b88299376147ee7b0c09a0f1b22",
+      "window_from": 1793017607,
+      "window_to": 1793188871,
+      "protocol_fee_wei": "3914135488203486145",
+      "supply_seconds": "19115446835878026432126134784",
+      "treasury_bps": 3334,
+      "referrers": {}
+    },
+    {
+      "chain_id": 1,
+      "vault": "0x76cf876c2a1287fe71cde51a587003a32f8630f0",
+      "window_from": 1793017607,
+      "window_to": 1793188871,
+      "protocol_fee_wei": "115127270589343097761",
+      "supply_seconds": "242399981395039743111357708",
+      "treasury_bps": 3334,
+      "referrers": {}
+    },
+    {
+      "chain_id": 1,
+      "vault": "0x7d3db01a4ac4aa27534d2951e58d59992686ea5c",
+      "window_from": 1793017607,
+      "window_to": 1793188871,
+      "protocol_fee_wei": "376473245733517792385",
+      "supply_seconds": "419337881570599496281340532",
+      "treasury_bps": 3334,
+      "referrers": {
+        "0x98949521ba2401b791f8de32ece6ec22c6cab83e": {
+          "payout": "0xf56d660138815fc5d7a06cd0e1630225e788293d",
+          "fee_bps": 5000,
+          "balance_seconds": "67952393844346783757260224",
+          "share_wei": "10169752460617632359"
+        }
+      }
+    },
+    {
+      "chain_id": 1,
+      "vault": "0xc5f79c63715cc7f3d65818b6b7b585eb5b00aa74",
+      "window_from": 1793017607,
+      "window_to": 1793188871,
+      "protocol_fee_wei": "1684370872101251871740",
+      "supply_seconds": "1409120496437878962690382322244",
+      "treasury_bps": 3334,
+      "referrers": {}
+    },
+    {
+      "chain_id": 1,
+      "vault": "0xde380abfb5a7117b92a868ebe828e560bebd1ecc",
+      "window_from": 1793017607,
+      "window_to": 1793188871,
+      "protocol_fee_wei": "674100314793553057260",
+      "supply_seconds": "603528222744443497406829292320",
+      "treasury_bps": 3334,
+      "referrers": {
+        "0x926df14a23be491164dcf93f4c468a50ef659d5b": {
+          "payout": "0x9d5df30f475cea915b1ed4c0cca59255c897b61b",
+          "fee_bps": 10000,
+          "balance_seconds": "482622753376974070439916125376",
+          "share_wei": "179721624134514430553"
+        }
+      }
+    },
+    {
+      "chain_id": 1,
+      "vault": "0xf980f195a93577dcce48e91e98124d3b71c4a066",
+      "window_from": 1793017607,
+      "window_to": 1793188871,
+      "protocol_fee_wei": "488902605751985003255",
+      "supply_seconds": "586433963684155987119623889504",
+      "treasury_bps": 3334,
+      "referrers": {}
+    }
+  ]
+}
