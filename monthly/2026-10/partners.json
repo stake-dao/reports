@@ -1,0 +1,141 @@
+{
+  "schema_version": 1,
+  "type": "partner_revenue_sharing",
+  "period": {
+    "month": "2026-10",
+    "start": "2026-10-01T00:00:00+02:00",
+    "end": "2026-10-31T23:59:59+01:00",
+    "timezone": "Europe/Paris"
+  },
+  "generated_at": "2026-11-01T22:03:15.372500+00:00",
+  "reward": "0xD533a949740bb3306d119CC777fa900bA034cd52",
+  "funding_chain_id": 1,
+  "funding_from": "0x9EBBb3d59d53D6aD3FA5464f36c2E84aBb7cf5c1",
+  "funding_to": "0x496D40cA46684Aa09C1BAd853295E48b8E83e073",
+  "valuation": "Historical CRV/USD at each publication or transfer; indicative, not USDC receipts.",
+  "accounting": "Published allocations, not fees earned strictly within the month. Funding is not claims. Neither flow is added to or deducted from treasury receipt totals.",
+  "totals": {
+    "allocations": {
+      "amount_wei": "3489219430809053413462",
+      "usd_value": "1241.88",
+      "count": 9
+    },
+    "funding": {
+      "amount_wei": "3555459053434668527596",
+      "usd_value": "1271.36",
+      "count": 4
+    }
+  },
+  "allocations": [
+    {
+      "root": "0xe30271fa689c3da31203e34621a076bdf86cb56fdbb88a510f6159fe9bce6cf0",
+      "timestamp": 1791151331,
+      "amount_wei": "533563067052826378122",
+      "report_path": "partners/1790812800/report-0xe30271fa689c3da31203e34621a076bdf86cb56fdbb88a510f6159fe9bce6cf0.json",
+      "crv_price_usd": "0.3742796307992807",
+      "usd_value": "199.7017877446637089858722593"
+    },
+    {
+      "root": "0xa632ada0e89ebcbf2bd3137ef1f047177d3853451ef08ee1a5daf3118a2d2e23",
+      "timestamp": 1791374507,
+      "amount_wei": "311045816904466543078",
+      "report_path": "partners/1790812800/report-0xa632ada0e89ebcbf2bd3137ef1f047177d3853451ef08ee1a5daf3118a2d2e23.json",
+      "crv_price_usd": "0.3474196217624952",
+      "usd_value": "108.0634200597561019730735311"
+    },
+    {
+      "root": "0x1fbce30809423cd10aa187365c9e85388cbed8dcea1f8f43d76a1ed4e750aa9c",
+      "timestamp": 1791386651,
+      "amount_wei": "6816308993726656423",
+      "report_path": "partners/1790812800/report-0x1fbce30809423cd10aa187365c9e85388cbed8dcea1f8f43d76a1ed4e750aa9c.json",
+      "crv_price_usd": "0.34841289034965905",
+      "usd_value": "2.374889918020680361627411115"
+    },
+    {
+      "root": "0x4ea090a393c756889171c50eb077b59baf04af5c05e6ec425c2148bfd1979fd2",
+      "timestamp": 1791756107,
+      "amount_wei": "494503326913700413593",
+      "report_path": "partners/1791417600/report-0x4ea090a393c756889171c50eb077b59baf04af5c05e6ec425c2148bfd1979fd2.json",
+      "crv_price_usd": "0.37191999982837015",
+      "usd_value": "183.9156772608719260008091951"
+    },
+    {
+      "root": "0x81d3824776ba303821770b449c642696c9031d4ab4e9a884f146e92506dbb46b",
+      "timestamp": 1791979379,
+      "amount_wei": "305627082855706762210",
+      "report_path": "partners/1791417600/report-0x81d3824776ba303821770b449c642696c9031d4ab4e9a884f146e92506dbb46b.json",
+      "crv_price_usd": "0.33641511154063697",
+      "usd_value": "102.8175691687420874173760064"
+    },
+    {
+      "root": "0x5ced0a69a1c16fd9e7307371e431c084d349c3120ea27bf7d776bc859cd9147b",
+      "timestamp": 1792360943,
+      "amount_wei": "610720413842374224177",
+      "report_path": "partners/1792022400/report-0x5ced0a69a1c16fd9e7307371e431c084d349c3120ea27bf7d776bc859cd9147b.json",
+      "crv_price_usd": "0.33757084291502554",
+      "usd_value": "206.1614048861834985996685964"
+    },
+    {
+      "root": "0x2582fd5d77c7dbbaf068288e1220411e5236a0ab985978cc5e4be8f02cf5d082",
+      "timestamp": 1792584167,
+      "amount_wei": "340205749582629581336",
+      "report_path": "partners/1792022400/report-0x2582fd5d77c7dbbaf068288e1220411e5236a0ab985978cc5e4be8f02cf5d082.json",
+      "crv_price_usd": "0.3871573914399823",
+      "usd_value": "131.7131705612947158040574576"
+    },
+    {
+      "root": "0x08c4d08abfa9c228861ba6f3e0bc1bd60104a682a233179a7bd8af4571d5a894",
+      "timestamp": 1793017295,
+      "amount_wei": "637467117783577230546",
+      "report_path": "partners/1792627200/report-0x08c4d08abfa9c228861ba6f3e0bc1bd60104a682a233179a7bd8af4571d5a894.json",
+      "crv_price_usd": "0.34991083319672744",
+      "usd_value": "223.0566503191678966259255274"
+    },
+    {
+      "root": "0xedf1694540af22dfcbbd14db581ae88b63d9d7a84956411a7c9f493568dd0e48",
+      "timestamp": 1793188919,
+      "amount_wei": "249270546880045623977",
+      "report_path": "partners/1792627200/report-0xedf1694540af22dfcbbd14db581ae88b63d9d7a84956411a7c9f493568dd0e48.json",
+      "crv_price_usd": "0.33728452657219027",
+      "usd_value": "84.07509839282714866379764310"
+    }
+  ],
+  "funding": [
+    {
+      "transaction_hash": "0xb076adc2db4d0687005890fd4701396160a61404adf0bb1cb64c1a693a90e452",
+      "log_index": 953,
+      "block_number": 26121865,
+      "timestamp": 1791151511,
+      "amount_wei": "849073236558487116233",
+      "crv_price_usd": "0.3742796307992807",
+      "usd_value": "317.7908175006608820911874070"
+    },
+    {
+      "transaction_hash": "0xeada50b1e1765a4dc7134ab2a63dbb8e08839d64897819d3f828284055e79cca",
+      "log_index": 4005,
+      "block_number": 26172082,
+      "timestamp": 1791756275,
+      "amount_wei": "812365452811893613094",
+      "crv_price_usd": "0.37191999982837015",
+      "usd_value": "302.1349590703733117706331010"
+    },
+    {
+      "transaction_hash": "0xec95668084be80940621c79b54c3b03c961020885e6733a9d21e1ec1c923571e",
+      "log_index": 896,
+      "block_number": 26222318,
+      "timestamp": 1792361051,
+      "amount_wei": "916347496698080986387",
+      "crv_price_usd": "0.33757084291502554",
+      "usd_value": "309.3321968634447813526598994"
+    },
+    {
+      "transaction_hash": "0xa84cfe41080359ae000f96fafe0bbb7c6ad18887b34c8a029aaaa1c84cd9dc43",
+      "log_index": 475,
+      "block_number": 26276861,
+      "timestamp": 1793017715,
+      "amount_wei": "977672867366206811882",
+      "crv_price_usd": "0.34991083319672744",
+      "usd_value": "342.0983276139430219503183263"
+    }
+  ]
+}
