@@ -5,21 +5,19 @@
     "end": "2026-10-31T23:59:59+01:00",
     "month": "2026-10"
   },
-  "generated_at": "2026-11-05T21:45:57.164546",
+  "generated_at": "2026-11-09T15:03:45.580043",
   "totals": {
-    "total_usd": 48526.73
+    "total_usd": 40953.3
   },
-  "notes": [
-    "The October 2026 VoteMarket total includes the November 5, 2026 late settlement transaction 0x85bb3d6c5eb246970040e38a49aa0fe5e38ec9891aabd8d793f45099a70037b2, attributed to October in full. Its inputs are valued at approximately $11,855.59 at historical prices, compared with 11,833.264847 USDC received. Approximately $5,878.89 of inputs were received in October or earlier and had not been reported; approximately $5,976.70 were received on Arbitrum between November 1 and November 5. The latter amount is reported in October rather than November. This transaction must be excluded from the November report. Totals use historical input-token valuations, not realized USDC."
-  ],
   "chains": [
     {
       "chain": "Ethereum",
       "chain_id": 1,
-      "total_usd": 48195.11,
-      "latest_tx": "0x12ef93c9e1eef73407ef002992b7a6d150e11779b08e69e690eb899f2d28803e",
+      "total_usd": 40621.68,
+      "latest_tx": "0x062fa211739a9126888ec41e72a3990018a0d878be77a0db8eda075c393413bb",
       "tx_hashes": [
         "0x009946ec490579114d24133a8f52c6878387d1f197c90bf1f4a4996a41b7ab5b",
+        "0x062fa211739a9126888ec41e72a3990018a0d878be77a0db8eda075c393413bb",
         "0x0f1be85983b9ab81890d4dde6deb599fd53f78127940179660bdecf5056c9a7d",
         "0x12ef93c9e1eef73407ef002992b7a6d150e11779b08e69e690eb899f2d28803e",
         "0x20a026ab49c843c68551a3705acc02641fbc804964843f632119b029c76c1dd5",
@@ -33,7 +31,6 @@
         "0x780d6610c015d205a2ae3f24283a0eaff4326b35aa06e96b9108dbc44ba36a0f",
         "0x7f4771e482ce81c914c7fde205408ed9180c85b5d6f387efb268cf1f1515cb46",
         "0x81878705a363c9c43621ec978f9199309aa79f584f4f570ed324c2e9d40e5cf9",
-        "0x85bb3d6c5eb246970040e38a49aa0fe5e38ec9891aabd8d793f45099a70037b2",
         "0xaf1472d479e268ab56b6ca4cb1e1390a0862a355e0140a844b5699f94d3c80a1",
         "0xb5957dcb79f7d233a1af7b6c005d90c6592adc21c584d468a3d7fca078eedc30",
         "0xc6ad649ce459106297adc6300b5a840ad2ba99849a9ca615a9462463dfc1f1fd",
@@ -47,30 +44,20 @@
         {
           "symbol": "USDC",
           "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
-          "amount": 13573.56035,
-          "usd_value": 13571.94,
+          "amount": 13216.036672,
+          "usd_value": 13212.37,
           "transfers": 4,
           "platforms": {
-            "Curve": 72.42259528484082,
-            "Balancer": 27.55750443668398,
-            "FXN": 0.019900278475186318
+            "Curve": 67.44159427850074,
+            "Balancer": 32.53491107625406,
+            "FXN": 0.023494645245198703
           }
         },
         {
           "symbol": "DOLA",
           "address": "0x865377367054516e17014ccded1e7d814edc9ce4",
-          "amount": 9817.149232624417,
-          "usd_value": 9782.93,
-          "transfers": 4,
-          "platforms": {
-            "Curve": 100.0
-          }
-        },
-        {
-          "symbol": "CRV",
-          "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
-          "amount": 15294.064358684958,
-          "usd_value": 4777.27,
+          "amount": 7032.342587621937,
+          "usd_value": 7008.46,
           "transfers": 4,
           "platforms": {
             "Curve": 100.0
@@ -79,12 +66,22 @@
         {
           "symbol": "WFRAX",
           "address": "0x04acaf8d2865c0714f79da09645c13fd2888977f",
-          "amount": 16227.96406945518,
-          "usd_value": 4440.58,
-          "transfers": 4,
+          "amount": 12557.834920641575,
+          "usd_value": 3549.56,
+          "transfers": 3,
           "platforms": {
             "Curve": 100.0,
-            "FXN": 4.7196526075824207e-17
+            "FXN": 5.3205033894478223e-17
+          }
+        },
+        {
+          "symbol": "CRV",
+          "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
+          "amount": 9525.984238674764,
+          "usd_value": 3325.97,
+          "transfers": 3,
+          "platforms": {
+            "Curve": 100.0
           }
         },
         {
@@ -100,8 +97,8 @@
         {
           "symbol": "YB",
           "address": "0x01791f726b4103694969820be083196cc7c045ff",
-          "amount": 36946.410039957926,
-          "usd_value": 2569.8,
+          "amount": 35247.079200276225,
+          "usd_value": 2424.05,
           "transfers": 4,
           "platforms": {
             "Curve": 100.0
@@ -120,32 +117,12 @@
         {
           "symbol": "ALCX",
           "address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
-          "amount": 578.4034817543773,
-          "usd_value": 1337.52,
-          "transfers": 4,
-          "platforms": {
-            "Curve": 99.71310941950526,
-            "FXN": 0.28689058049473765
-          }
-        },
-        {
-          "symbol": "evaUSDT",
-          "address": "0x501ebf66d76a96d4fb26ccead42957653e16b8b8",
-          "amount": 1058.868304,
-          "usd_value": 1054.06,
+          "amount": 373.0621057454473,
+          "usd_value": 920.72,
           "transfers": 3,
           "platforms": {
-            "Curve": 100.0
-          }
-        },
-        {
-          "symbol": "USG",
-          "address": "0xb1c2db5d6ca03fce73dbd304d320bf76c55ae1b1",
-          "amount": 895.5250377485502,
-          "usd_value": 890.71,
-          "transfers": 4,
-          "platforms": {
-            "Curve": 100.0
+            "Curve": 99.65098766460333,
+            "FXN": 0.34901233539666243
           }
         },
         {
@@ -169,6 +146,16 @@
           }
         },
         {
+          "symbol": "USG",
+          "address": "0xb1c2db5d6ca03fce73dbd304d320bf76c55ae1b1",
+          "amount": 605.1334168590673,
+          "usd_value": 601.92,
+          "transfers": 3,
+          "platforms": {
+            "Curve": 100.0
+          }
+        },
+        {
           "symbol": "evaUSDC",
           "address": "0x741bd193b6b40f8703d2e116fd1965421f290f58",
           "amount": 551.730307,
@@ -179,24 +166,13 @@
           }
         },
         {
-          "symbol": "SDEX",
-          "address": "0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef",
-          "amount": 1026449.7402875709,
-          "usd_value": 543.94,
-          "transfers": 4,
+          "symbol": "evaUSDT",
+          "address": "0x501ebf66d76a96d4fb26ccead42957653e16b8b8",
+          "amount": 534.869805,
+          "usd_value": 533.2,
+          "transfers": 2,
           "platforms": {
-            "FXN": 100.0,
-            "Curve": 1.0855845700616745e-16
-          }
-        },
-        {
-          "symbol": "FXN",
-          "address": "0x365accfca291e7d3914637abf1f7635db165bb09",
-          "amount": 17.907663538804034,
-          "usd_value": 417.18,
-          "transfers": 4,
-          "platforms": {
-            "FXN": 100.0
+            "Curve": 100.0
           }
         },
         {
@@ -220,32 +196,32 @@
           }
         },
         {
-          "symbol": "SDT",
-          "address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
-          "amount": 3691.0958171521957,
-          "usd_value": 346.6,
-          "transfers": 2,
+          "symbol": "FXN",
+          "address": "0x365accfca291e7d3914637abf1f7635db165bb09",
+          "amount": 12.521189886534374,
+          "usd_value": 309.04,
+          "transfers": 3,
           "platforms": {
-            "Curve": 77.77175718829284,
-            "FXN": 22.22824281170715
+            "FXN": 100.0
           }
         },
         {
-          "symbol": "USDT",
-          "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
-          "amount": 310.272084,
-          "usd_value": 310.02,
+          "symbol": "SDEX",
+          "address": "0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef",
+          "amount": 663769.2314324735,
+          "usd_value": 298.47,
           "transfers": 3,
           "platforms": {
-            "Curve": 100.0
+            "FXN": 100.0,
+            "Curve": 1.316994892018957e-16
           }
         },
         {
-          "symbol": "CVX",
-          "address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
-          "amount": 141.56481684843962,
-          "usd_value": 277.43,
-          "transfers": 3,
+          "symbol": "OUSD",
+          "address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86",
+          "amount": 271.93946109285514,
+          "usd_value": 271.56,
+          "transfers": 1,
           "platforms": {
             "Curve": 100.0
           }
@@ -261,13 +237,34 @@
           }
         },
         {
-          "symbol": "avUSD",
-          "address": "0xf4c13d631450de6b12a19829e37c8e2826891dc4",
-          "amount": 226.2424844325508,
-          "usd_value": 226.16,
+          "symbol": "USDT",
+          "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+          "amount": 184.495041,
+          "usd_value": 184.39,
           "transfers": 2,
           "platforms": {
             "Curve": 100.0
+          }
+        },
+        {
+          "symbol": "CVX",
+          "address": "0x4e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+          "amount": 89.62733358758959,
+          "usd_value": 183.41,
+          "transfers": 2,
+          "platforms": {
+            "Curve": 100.0
+          }
+        },
+        {
+          "symbol": "SDT",
+          "address": "0x73968b9a57c6e53d41345fd57a6e6ae27d6cdb2f",
+          "amount": 1399.1638255551552,
+          "usd_value": 126.49,
+          "transfers": 1,
+          "platforms": {
+            "Curve": 84.17725631395462,
+            "FXN": 15.822743686045381
           }
         },
         {
@@ -281,10 +278,10 @@
           }
         },
         {
-          "symbol": "OUSD",
-          "address": "0x2a8e1e676ec238d8a992307b495b45b3feaa5e86",
-          "amount": 51.35989131077027,
-          "usd_value": 51.3,
+          "symbol": "avUSD",
+          "address": "0xf4c13d631450de6b12a19829e37c8e2826891dc4",
+          "amount": 74.44157284172495,
+          "usd_value": 74.41,
           "transfers": 1,
           "platforms": {
             "Curve": 100.0
@@ -310,12 +307,10 @@
       "tx_hashes": [
         "0x26fb6691b7671c66a092973e9c8842a1cfc3ede6565f0eea710c460da48c2e96",
         "0x2feddc2cd14f4aa6da965a4e034b2755aa5ad4383df7b95e8810a0ef73d0df22",
-        "0x4174edfbea990c88679de1ca2af83a0a97e5d7a36e414f3a608fa27ed9abc8f7",
         "0x47d2e6e3c3588f7b1166aa3d562054375f2865190319a608721230c7fda5b06f",
         "0x5882b7be952cc416c70086c201c3176550659fa7d6384b3b3199f4c99695be44",
         "0x70ce777db9816c12d5fae459fe1ad214905a8d2f8fd361d1ec9674c2cdaf77bb",
-        "0x8521a9d53d0061dc9635b7bf127c1967711911ea8cba969b083c082220e1032f",
-        "0x88ebfb67507d3d81f294ed839794cb71e074a630e0159bd730c9087b804d9f0e"
+        "0x8521a9d53d0061dc9635b7bf127c1967711911ea8cba969b083c082220e1032f"
       ],
       "tokens": [
         {
@@ -332,7 +327,7 @@
       ],
       "tx_categories": {
         "swaps": 2,
-        "bridges": 6
+        "bridges": 4
       }
     }
   ],
@@ -344,8 +339,8 @@
         "Ethereum"
       ],
       "tokens": 33,
-      "transfers": 2021,
-      "usd_value": 42972.06
+      "transfers": 1717,
+      "usd_value": 35250.94
     },
     {
       "platform": "Balancer",
@@ -355,7 +350,7 @@
       ],
       "tokens": 4,
       "transfers": 17,
-      "usd_value": 4509.97
+      "usd_value": 5068.52
     },
     {
       "platform": "FXN",
@@ -363,79 +358,9 @@
         "Ethereum"
       ],
       "tokens": 7,
-      "transfers": 165,
-      "usd_value": 1044.7
+      "transfers": 153,
+      "usd_value": 633.84
     }
   ],
-  "fee_recipient": "0x175E94Ad5029e62Ef876d94eB15F822c8027E4c0",
-  "updated_at": "2026-11-09T13:15:58Z",
-  "reconciliation_notes": {
-    "basis": "Historical USD valuation of outgoing fee-recipient tokens; not treasury cash receipts.",
-    "late_settlement": {
-      "tx_hash": "0x85bb3d6c5eb246970040e38a49aa0fe5e38ec9891aabd8d793f45099a70037b2",
-      "reported_month": "2026-10",
-      "cash_usdc": "11833.264847",
-      "disclosure": "Entire November 5 settlement attributed to October by explicit user decision, including November inventory. Exclude the whole settlement from November."
-    },
-    "recoveries_not_in_total": [
-      {
-        "source_chain_id": 8453,
-        "token": "pUSDC",
-        "decimals": 6,
-        "amount_raw": "2045619063",
-        "source_tx": "0x20fa23562acfafc2369c37f1b95e9efaa4010ef083f796edf0818107642cc531",
-        "bridge": "LaPoste/CCIP",
-        "status_at_check": "delivered_to_vm_recipient_not_treasury",
-        "status_checked_at": "2026-11-09T12:10:00+00:00",
-        "net_recipient_flows_by_period_raw": {
-          "before_2026-10": "1177617994",
-          "2026-10": "646168603",
-          "2026-11": "221832466"
-        },
-        "period_basis": "Net recipient inflows, not proven campaign earning dates or FIFO attribution.",
-        "counted_in_report_total": false,
-        "settlement_tx": null,
-        "destination_tx": "0x9870e75f705c5a2b5fa0ac87b9542db85becc5a21c6d4fd05d5d676ce6669e2c"
-      },
-      {
-        "source_chain_id": 8453,
-        "token": "USDC",
-        "decimals": 6,
-        "amount_raw": "41636500",
-        "source_tx": "0x20fa23562acfafc2369c37f1b95e9efaa4010ef083f796edf0818107642cc531",
-        "bridge": "CCTP V2",
-        "status_at_check": "attestation_ready_receiveMessage_pending",
-        "status_checked_at": "2026-11-09T12:10:00+00:00",
-        "net_recipient_flows_by_period_raw": {
-          "2026-10": "40770519",
-          "2026-11": "865981"
-        },
-        "period_basis": "Net recipient inflows, not proven campaign earning dates or FIFO attribution.",
-        "counted_in_report_total": false,
-        "settlement_tx": null
-      },
-      {
-        "source_chain_id": 8453,
-        "token": "CRV",
-        "decimals": 18,
-        "amount_raw": "60763159391062007645",
-        "source_tx": "0x20fa23562acfafc2369c37f1b95e9efaa4010ef083f796edf0818107642cc531",
-        "bridge": "Base canonical bridge",
-        "status_at_check": "withdrawal_initiated_not_proven",
-        "status_checked_at": "2026-11-09T12:10:00+00:00",
-        "net_recipient_flows_by_period_raw": {
-          "before_2026-10": "45195585182232297232",
-          "2026-10": "15567574208829710413"
-        },
-        "period_basis": "Net recipient inflows, not proven campaign earning dates or FIFO attribution.",
-        "counted_in_report_total": false,
-        "settlement_tx": null
-      }
-    ],
-    "publication_checks": [
-      "Preserve existing fee basis and reconcile campaign/month allocation before recognizing recoveries.",
-      "Do not count both a Base native-token bridge debit and its later Ethereum settlement: their hashes differ.",
-      "The existing hash filter excludes whole transactions, not partial allocations within mixed-month transactions."
-    ]
-  }
+  "fee_recipient": "0x175E94Ad5029e62Ef876d94eB15F822c8027E4c0"
 }
