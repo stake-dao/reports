@@ -1,40 +1,40 @@
 {
   "type": "lockers_strats",
   "period": {
-    "start": "2026-10-01T00:00:00+01:00",
+    "start": "2026-10-01T00:00:00+02:00",
     "end": "2026-10-31T23:59:59+01:00",
     "month": "2026-10"
   },
-  "generated_at": "2026-11-01T22:01:41.154658",
+  "generated_at": "2026-11-09T13:21:39.722203",
   "totals": {
-    "total_usd": 33416.28,
-    "strategy_usd": 27390.54,
-    "locker_usd": 6025.74,
-    "total_strategy_l1_usd": 25250.95,
-    "total_strategy_l2_usd": 2139.59
+    "total_usd": 39687.09,
+    "strategy_usd": 32791.16,
+    "locker_usd": 6895.93,
+    "total_strategy_l1_usd": 30742.29,
+    "total_strategy_l2_usd": 2048.86
   },
   "tokens": [
     {
       "symbol": "CRV",
       "address": "0xd533a949740bb3306d119cc777fa900ba034cd52",
       "protocol": "Crv",
-      "amount": 78136.38888366123,
-      "usd_value": 27390.53917844423,
+      "amount": 97684.8870253813,
+      "usd_value": 32791.155437373505,
       "strategy_pct": 100.0,
       "locker_pct": 0.0,
       "strategy_sources": {
         "l1": {
-          "amount": 72032825121618654663400,
-          "usd": 25250.95
+          "amount": 91581323263338713637107,
+          "usd": 30742.29
         },
         "l2": {
           "amount": 6103563762042574136564,
-          "usd": 2139.59,
+          "usd": 2048.86,
           "chains": [
             {
               "chain": "Base",
               "amount": 2805682609616463218791,
-              "usd": 983.53,
+              "usd": 941.82,
               "txs": [
                 "0xded0e9fd79f0df36005b1d4f0c7b4c3ed77f64e61cecbd668ce4ffdac72af823",
                 "0xd7abfb392b0d9a0dc98f569f9927a783e890d91c0eb37417fc086b914a02476f",
@@ -44,7 +44,7 @@
             {
               "chain": "Arbitrum",
               "amount": 2247610090961805925777,
-              "usd": 787.89,
+              "usd": 754.48,
               "txs": [
                 "0x99af506613c756f20fee54d5c1be5b9a865598df05c49b4b95ba78df874d40b3",
                 "0x6201dbcb0f4715382a0488dc87f9c16ef144b9466715e5f981d5230745611819",
@@ -54,7 +54,7 @@
             {
               "chain": "Fraxtal",
               "amount": 1050271061464304991996,
-              "usd": 368.17,
+              "usd": 352.56,
               "txs": [
                 "0x0922ed93f169fe7734b2ef4b2b6162432ca7cf22ec513a4d4dc5f42c3a8ad62a",
                 "0x6078bbb30eefa4ae37d939a9bdbb79bfddd5698d7ccee0775122d1b4e914aba7",
@@ -69,8 +69,8 @@
       "symbol": "crvUSD",
       "address": "0xf939e0a03fb07f59a73314e73794be0e57ac1b4e",
       "protocol": "Curve",
-      "amount": 3508.451574054707,
-      "usd_value": 3496.7772558320153,
+      "amount": 4199.788991694399,
+      "usd_value": 4184.537742794578,
       "strategy_pct": 0.0,
       "locker_pct": 100.0
     },
@@ -87,8 +87,8 @@
       "symbol": "wstETH",
       "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
       "protocol": "f(x)",
-      "amount": 0.23039940095706882,
-      "usd_value": 712.2477821442312,
+      "amount": 0.29531565241511987,
+      "usd_value": 894.6783882523933,
       "strategy_pct": 0.0,
       "locker_pct": 100.0
     },
@@ -113,21 +113,115 @@
     "0x3f3634d4d87b1fb7e9c124542658c3ced814c83d6fed8bc9044a0a153468b9be",
     "0x3f3634d4d87b1fb7e9c124542658c3ced814c83d6fed8bc9044a0a153468b9be",
     "0x3f3634d4d87b1fb7e9c124542658c3ced814c83d6fed8bc9044a0a153468b9be",
+    "0xe67f2c8048512e82841e8e4c3baed7f466cfef70e62ce1737051aa9e81211961",
+    "0xe67f2c8048512e82841e8e4c3baed7f466cfef70e62ce1737051aa9e81211961",
+    "0xe67f2c8048512e82841e8e4c3baed7f466cfef70e62ce1737051aa9e81211961",
     "0x9ab046401fb43fb37dbc34340f3fcf0b8efd8e1f2568ea45a7328e4539ac982f",
     "0xd9949db311bcbd939463d185d9532b0d535ce1030a667af2376fb82bdf451d08"
   ],
   "l2_chains": [
     {
       "chain": "Base",
-      "usd": 983.53
+      "usd": 941.82
     },
     {
       "chain": "Arbitrum",
-      "usd": 787.89
+      "usd": 754.48
     },
     {
       "chain": "Fraxtal",
-      "usd": 368.17
+      "usd": 352.56
     }
-  ]
+  ],
+  "updated_at": "2026-11-09T13:15:58Z",
+  "reconciliation_notes": {
+    "basis": "Realized USDC transfers to treasury; token split uses the existing proportional report allocation.",
+    "late_settlement": {
+      "tx_hash": "0xe67f2c8048512e82841e8e4c3baed7f466cfef70e62ce1737051aa9e81211961",
+      "reported_month": "2026-10",
+      "cash_usdc": "6270.807352"
+    },
+    "cash_usdc_exact": "39687.086487",
+    "recoveries_not_in_total": {
+      "source_chain_id": 10,
+      "token": "CRV",
+      "withdrawals": [
+        {
+          "source_tx": "0xf2405bf5c6fe0a078e5954f1447bb07d3e373af2bf7773f93e15deb7d7b6e2e0",
+          "withdrawal_hash": "0x30168770c9227568731b1c3fc3670147f4f90fbb262652a0659ab3e170af4ad8",
+          "amount_wei": "292934181380250836493",
+          "source_withdrawal_month": "2026-09",
+          "counted_in_report_total": false,
+          "settlement_tx": null
+        },
+        {
+          "source_tx": "0x00ab75ff238bf92783abe977dcea1702de110ed447dceb35e3fb92e39d075076",
+          "withdrawal_hash": "0x32a769d241645f54bbcc5f24dddc30d213c794261900492358c674059f9e3c95",
+          "amount_wei": "8097459692182137090",
+          "source_withdrawal_month": "2026-09",
+          "counted_in_report_total": false,
+          "settlement_tx": null
+        },
+        {
+          "source_tx": "0x2f0168e96d2cdaede0dda41423c92e2b352ac405ab8048d67b0a448f82b88d98",
+          "withdrawal_hash": "0xf08a8ab67fe648fe98430864a213dc73763ee870315c40496c384683bbe4c438",
+          "amount_wei": "402238011321682554609",
+          "source_withdrawal_month": "2026-10",
+          "counted_in_report_total": false,
+          "settlement_tx": null
+        },
+        {
+          "source_tx": "0x1a2739284f2da66d814007c3d1a26fbf9b627c913e84fa510f3c880afcfcbb2f",
+          "withdrawal_hash": "0x97097caa1905032dec9cd219c9bcb303bed6cdb5338de0c4c915b32b5611bbe9",
+          "amount_wei": "48936679123533526861",
+          "source_withdrawal_month": "2026-10",
+          "counted_in_report_total": false,
+          "settlement_tx": null
+        },
+        {
+          "source_tx": "0xd2d77a2413b4bab3b9aace1d31e173343cb00d993474163193cdd2c62dd1004c",
+          "withdrawal_hash": "0x421a4155876398e9a7f94dcc5bc95dfd32d8a7404b94e9d47a0ae2a7e40004fc",
+          "amount_wei": "290931787532052036119",
+          "source_withdrawal_month": "2026-10",
+          "counted_in_report_total": false,
+          "settlement_tx": null
+        },
+        {
+          "source_tx": "0xb74596afb7ce671fdc2421709a5342f43e75d6f56105c41c39fda1208d27f50b",
+          "withdrawal_hash": "0x9796fdf98dd1f23df48485e415bcd55958b1a53606a71673a3a4733430ef4bab",
+          "amount_wei": "263838030141188741659",
+          "source_withdrawal_month": "2026-10",
+          "counted_in_report_total": false,
+          "settlement_tx": null
+        },
+        {
+          "source_tx": "0xaaf04ced8cc0fa2da74913e6635da9734352268f1c8a265a89d5183295ce0d7d",
+          "withdrawal_hash": "0xcdcbcbb214476668c934a568149687ebccd3824507003a77a8d661b4163eff86",
+          "amount_wei": "84969923877781549472",
+          "source_withdrawal_month": "2026-10",
+          "counted_in_report_total": false,
+          "settlement_tx": null
+        },
+        {
+          "source_tx": "0xee9fa457e05836ba7dbbecdf6b0c9c1741b9fd59fd4da715d57b0c16529c3e5d",
+          "withdrawal_hash": "0x381b1a685ba685438bef0e3f02d641a5ab488b19149281c00be8992480e0760d",
+          "amount_wei": "323136430018398120947",
+          "source_withdrawal_month": "2026-10",
+          "counted_in_report_total": false,
+          "settlement_tx": null
+        },
+        {
+          "source_tx": "0xe93ee4d580287afe84b721c674685c2e2862a5ec04087ef36fd42d1ea22d9358",
+          "withdrawal_hash": "0xfc5a382d822f4d1f9c6ce9beefebdfda334e6144f98e4ae9b2c18bad310f2179",
+          "amount_wei": "15683919266306086312",
+          "source_withdrawal_month": "2026-10",
+          "counted_in_report_total": false,
+          "settlement_tx": null
+        }
+      ],
+      "status": "proven_waiting_maturity",
+      "earliest_finalization_utc": "2026-11-16T11:32:11+00:00",
+      "recognition_requires": "Finalization, splitter allocation and realized treasury USDC settlement."
+    }
+  }
 }
