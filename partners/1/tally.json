@@ -1,373 +1,408 @@
 {
-  "block": 26473537,
-  "timestamp": 1795385147,
+  "block": 26492622,
+  "timestamp": 1795614839,
   "balance": {
     "0x017ec76d2f32d018cbb0f9ae507d5e5f9bdcee3c-0x6287518779c2b654a6f37c1f9ef3c097d90902c5": {
-      "seconds": "13868164291336923542586409828296",
+      "seconds": "14162050683577851282360076764204",
       "amount": "1279480313815577990411799",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xc5f79c63715cc7f3d65818b6b7b585eb5b00aa74-0x161d6fa48b0e0152763c3929a3813bd177fc099f": {
-      "seconds": "4326365107798755397614155869608",
+      "seconds": "4431933912437197937025931317612",
       "amount": "459610280891117406839487",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x5e645a9f3a2e0c851afa41e15b47649f848cd3fe-0xa6069a4a53b564eb0a312e08f5af19ae2ba5d67e": {
-      "seconds": "24171021275112371353560637164",
+      "seconds": "24171935753293801127435734560",
       "amount": "3981323604782812963",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x543d3ee7cfa494e8ffcc18364d130c8eed4b90ad-0xc9c80e8481c2b6f979afc155bc3f979cfad19c56": {
-      "seconds": "5035816108637482675924114549212",
-      "amount": "572343988223222712479570",
-      "lastUpdated": 1795385147
+      "seconds": "5177109180389439729332979558372",
+      "amount": "681332000014465813658447",
+      "lastUpdated": 1795614839
     },
     "0xf980f195a93577dcce48e91e98124d3b71c4a066-0xaed9bcae0831caf4a45739ec7910cedf2ac5d9a1": {
-      "seconds": "3061656538923203811026733076332",
-      "amount": "206546516500742463148189",
-      "lastUpdated": 1795385147
+      "seconds": "3106698410776815995811479460540",
+      "amount": "184471960579060225530124",
+      "lastUpdated": 1795614839
     },
     "0x017ec76d2f32d018cbb0f9ae507d5e5f9bdcee3c-0x48ec8e98b0f12c9f11c300ba12b5a20eab9cb950": {
-      "seconds": "257237900486376441123565397352",
+      "seconds": "263232337202839317661407539700",
       "amount": "26097716578996554245869",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x7053fa875c478045124ce3ef740a189b6037df91-0x7b1b38cad63b0715a0adfeeb75e46431b48e73b6": {
-      "seconds": "3452371119062062844697942312",
+      "seconds": "3512514829781539618243438716",
       "amount": "261845039093554732187",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x017ec76d2f32d018cbb0f9ae507d5e5f9bdcee3c-0x910f818f6070b86b6bdb0edf1e7da6e1fab4a186": {
-      "seconds": "3324085917624",
+      "seconds": "3394528089876",
       "amount": "306681",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x017ec76d2f32d018cbb0f9ae507d5e5f9bdcee3c-0xa9fe074d877057a065af0d536f6ef13952da1fbb": {
       "seconds": "0",
       "amount": "0",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x017ec76d2f32d018cbb0f9ae507d5e5f9bdcee3c-0x7c1fa6610ef2706224e1a3cdb6f661995e017f4a": {
       "seconds": "357736230181910629315425774060",
       "amount": "0",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x017ec76d2f32d018cbb0f9ae507d5e5f9bdcee3c-0x6185dae6e9029845f209c7546a8b7334d621c49e": {
       "seconds": "0",
       "amount": "0",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x8fe5ff2d6784d048e7ebfb915709e9e3c07841db-0x5c996574270f439bfff5b7647ee92c1879d35a4b": {
-      "seconds": "23410553176747729107589406220",
+      "seconds": "23410997284374512178028968408",
       "amount": "1933491923023311389",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x017ec76d2f32d018cbb0f9ae507d5e5f9bdcee3c-0x0e241bc333996c258e8d987fa53cc247700d6237": {
       "seconds": "20892656539870238550469150548",
       "amount": "0",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x5e1dacdbef6bceba53600d0bce33fd30ee09fa82-0xd2c7257efe28a1b1446904a371e3d51e1c2f7e0e": {
-      "seconds": "5036379508007059896218300631504",
+      "seconds": "5047464236613234150110569908600",
       "amount": "48259097426877095816438",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x017ec76d2f32d018cbb0f9ae507d5e5f9bdcee3c-0xdecbeae5ea79fbb0cfea273865bcc8d7f6a52cca": {
       "seconds": "0",
       "amount": "0",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x017ec76d2f32d018cbb0f9ae507d5e5f9bdcee3c-0xb7b18b339fc62bcc7e52ada5203ea85f2ef33629": {
-      "seconds": "24774610240345621420640094413352",
+      "seconds": "26224836990937281608956586560560",
       "amount": "6313788684811226287012574",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xcaa77da5f349034b0d80ba7e28a0e77b2c5d701b-0x2b2962931433fe137fd17cf62df4b9ec84a7de00": {
-      "seconds": "166128657428239269535344528",
+      "seconds": "166128794983926181546639644",
       "amount": "598870169235373",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x3bf225861cbb865a0abeccc8ba924748118276f3-0x4903f0d3698ddc5ca66040b235de0a2126a41437": {
-      "seconds": "16210681053763381252583088",
+      "seconds": "16211040756710423372464524",
       "amount": "1566022965719833",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x67ea89d21d449bf9183c0773f0d02af8545f810c-0xd3d29a8752fc40d64a20bbc043147077570c1785": {
-      "seconds": "4132872103895830987281871442388",
+      "seconds": "4155877110016089867285067648056",
       "amount": "100155887537480103805079",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x017ec76d2f32d018cbb0f9ae507d5e5f9bdcee3c-0xd83442a56ad4a72ba538d408e5d4eee14f8d958c": {
-      "seconds": "1969014175149416208257550221280",
+      "seconds": "2015614710823153600891007355120",
       "amount": "202882711081523921745020",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x017ec76d2f32d018cbb0f9ae507d5e5f9bdcee3c-0x29333ef43bf2869ee5360a032202880b3d3fddc9": {
       "seconds": "0",
       "amount": "0",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x017ec76d2f32d018cbb0f9ae507d5e5f9bdcee3c-0x630b436e35a501a5ea163dee0f8af68b2aa866b0": {
-      "seconds": "91601523193380199505403020208",
+      "seconds": "93775750527759085992543647832",
       "amount": "9465838315565568183222",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x017ec76d2f32d018cbb0f9ae507d5e5f9bdcee3c-0x0f4be3210f27841e6a842469a417a7a6f8b28a67": {
-      "seconds": "386143625922009154473794174976",
+      "seconds": "406034101206734676771980785212",
       "amount": "86596291053782988951233",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xde380abfb5a7117b92a868ebe828e560bebd1ecc-0x244c24c94d5bbdba43c408b702ded98e436df721": {
-      "seconds": "2130246981041649112449483687180",
+      "seconds": "2156246707837637887974491580252",
       "amount": "113193871776068716041516",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xde380abfb5a7117b92a868ebe828e560bebd1ecc-0xebdd55c99d8e9236b401046b176346d26d718a2e": {
-      "seconds": "9558883717247680297385327642352",
-      "amount": "50486818534779303604715",
-      "lastUpdated": 1795385147
+      "seconds": "9565712275657665609188115812112",
+      "amount": "0",
+      "lastUpdated": 1795614839
     },
     "0xde380abfb5a7117b92a868ebe828e560bebd1ecc-0xb845260aa28c63fd06552994bdf5f6204c96c49d": {
       "seconds": "3421244238046572812407423998564",
       "amount": "0",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xde380abfb5a7117b92a868ebe828e560bebd1ecc-0x2ef4807fff6a5be1593b792d26d2c598fe18df45": {
       "seconds": "25131001569751266119840124336",
       "amount": "0",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xde380abfb5a7117b92a868ebe828e560bebd1ecc-0x2b050735b5af0c600da8adc3fe05456e50d939cc": {
-      "seconds": "1462158737951109723614704118640",
+      "seconds": "1531630014256353131475705224304",
       "amount": "302454052841385019334592",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xde380abfb5a7117b92a868ebe828e560bebd1ecc-0x5034a3d54bc8c377a6b002f0e4c8da52caa68665": {
       "seconds": "316781867392109640080005121892",
       "amount": "0",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xde380abfb5a7117b92a868ebe828e560bebd1ecc-0x3a9cde3e6f78032213de4ce89fbbb220011ef789": {
-      "seconds": "14675446039226493432222003456",
+      "seconds": "14675446039226493510297070560",
       "amount": "339912",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x715aaac9b7c35b88299376147ee7b0c09a0f1b22-0x95b2b136eb0bf075072d0c759e475453711a33f5": {
-      "seconds": "6066617873710273188377496",
+      "seconds": "6297006889905376455891084",
       "amount": "1003034568879644339",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x5e1dacdbef6bceba53600d0bce33fd30ee09fa82-0xda36ab65d5af53763cacd63ae7d441932032326f": {
-      "seconds": "5861847397297815301377048",
+      "seconds": "6084459944035214626572492",
       "amount": "969178494407290307",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x4fdb3cb3dbd6d24b64276645c1adcb85cbb39dc6-0x3b855aa8cc56a3cbd5dbb5456f5a13ce86aa0fe8": {
-      "seconds": "6048264",
+      "seconds": "6277956",
       "amount": "1",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x017ec76d2f32d018cbb0f9ae507d5e5f9bdcee3c-0x116fa03fa493c9a3f98c174570664e1c2877c19c": {
       "seconds": "127396696751596978955196748416",
       "amount": "0",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x814fe989c3b894413c245bf466b3e4208ab86b2a-0x4926f23927fbabe8580c183e07e34d4b147eafc0": {
-      "seconds": "6061713827953833477580776",
+      "seconds": "6291916605572398394577204",
       "amount": "1002223750146130109",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xca137e3853eab95541290b372223e7f2ee4c0cfa-0x61ec68a5a79905a82bd594dc847e284df17a8760": {
-      "seconds": "6667730449892295593489400",
+      "seconds": "6920947627994418972935100",
       "amount": "1102420537511638975",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x715aaac9b7c35b88299376147ee7b0c09a0f1b22-0x56dbc69208044748af4d33392e25fc9336f11931": {
-      "seconds": "285522603878868027247376527572",
-      "amount": "6747101941985425939974",
-      "lastUpdated": 1795385147
+      "seconds": "286769776616710010802321249000",
+      "amount": "209961341805670749246",
+      "lastUpdated": 1795614839
     },
     "0x76cf876c2a1287fe71cde51a587003a32f8630f0-0xe4622622bfb74dce6019d5d41150d8824b83bf9a": {
-      "seconds": "367378202875045214679582132",
+      "seconds": "390956665530823483397208552",
       "amount": "102652520139048241635",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xde380abfb5a7117b92a868ebe828e560bebd1ecc-0x0d740d160d66030f47755402ec754d9e340c5a01": {
       "seconds": "48271517332527784667667767220",
       "amount": "0",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xde380abfb5a7117b92a868ebe828e560bebd1ecc-0x6a79f5f1c180c6263527ffc7f735781e5de1061e": {
-      "seconds": "29738763065112402595796775372",
+      "seconds": "31749189739580180943704590224",
       "amount": "8752706556901321543231",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xde380abfb5a7117b92a868ebe828e560bebd1ecc-0x4f0cb54a08539463b6dd7543c743cae16ab3062d": {
-      "seconds": "46282174742141336605768696824",
+      "seconds": "49403440836641526244984048032",
       "amount": "13588919485659882099574",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xde380abfb5a7117b92a868ebe828e560bebd1ecc-0xfcee6957ef8eff2baa01bd247c8832b6e3c3ddc2": {
       "seconds": "36548315181452782931285362368",
       "amount": "0",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xde380abfb5a7117b92a868ebe828e560bebd1ecc-0x1e01ddf395933e545c1f64fe5ea0194410be741d": {
       "seconds": "11701623808370190131322791160",
       "amount": "0",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xde380abfb5a7117b92a868ebe828e560bebd1ecc-0xecf8280afb0115279e520673fe513123e4731eed": {
-      "seconds": "125290154151465432427541818272",
+      "seconds": "133739711941402117763457434496",
       "amount": "36786469663447944795272",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x017ec76d2f32d018cbb0f9ae507d5e5f9bdcee3c-0x7b17ee7eb5fb2721e4d7a0cf67a925d3668c7451": {
       "seconds": "118220310998144709124045705344",
       "amount": "0",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x6ea128d83bc4223a0d1e6e475cee85998acb6337-0x420d2d75c69331df6ce4a1a74067d68e82670e13": {
-      "seconds": "3009496044496166885042400",
+      "seconds": "3238063701624234062293056",
       "amount": "995104997684147368",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x7d3db01a4ac4aa27534d2951e58d59992686ea5c-0x98949521ba2401b791f8de32ece6ec22c6cab83e": {
-      "seconds": "1264328779165696225440226440",
+      "seconds": "1400111996877172203122834976",
       "amount": "591153447710307619258",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xca137e3853eab95541290b372223e7f2ee4c0cfa-0xe1065be419cacaf05477ea77a32cb33e8bcbc7da": {
-      "seconds": "104932895185055806404151284036",
-      "amount": "12475625166184383540988",
-      "lastUpdated": 1795385147
+      "seconds": "107149623451934837947557076068",
+      "amount": "7391123968828482023130",
+      "lastUpdated": 1795614839
     },
     "0x6324cd92203bb218079f2f44eb3893bd1ebea9a4-0x124716131a55c5a9276f2414e7cbde60338cd322": {
-      "seconds": "1584948411670042558186212",
+      "seconds": "1954049156840267329228056",
       "amount": "1606937747811089507",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x22d6af8d893557d54e40b49cae140e83f37a8ecb-0xb4edf0dd81b2ad31703b61da098401d0c83607bf": {
-      "seconds": "20674169602055614137120",
+      "seconds": "28527088326316340248380",
       "amount": "34188908295720905",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x0f67c05a034fec0183ad74d3be42c8ba27f6c4c4-0xf9fbb128d4569bfc6f97124e13ae32cd6fb6a48b": {
+      "seconds": "31951550191761933840602957160",
+      "amount": "145521769115867918084230",
+      "lastUpdated": 1795614839
+    },
+    "0xfb77f231d8006a5da17503aa3ef38bfd2092453f-0x67f23c664ca086c830f8f6190ba59e958b984100": {
       "seconds": "0",
-      "amount": "137521769115867918084230",
-      "lastUpdated": 1795385147
+      "amount": "86337527598294931138161",
+      "lastUpdated": 1795614839
+    },
+    "0xfb77f231d8006a5da17503aa3ef38bfd2092453f-0x4b460cf00679cd0291048c75ca4c63d3ae830630": {
+      "seconds": "0",
+      "amount": "138660398892894836454257",
+      "lastUpdated": 1795614839
+    },
+    "0xfb77f231d8006a5da17503aa3ef38bfd2092453f-0x20e3f1603066530718aba957f36d4c195900a224": {
+      "seconds": "0",
+      "amount": "28711746425093003432051",
+      "lastUpdated": 1795614839
+    },
+    "0xfb77f231d8006a5da17503aa3ef38bfd2092453f-0x2a39d38b29df00dcd4c76a9126c27de0a5259411": {
+      "seconds": "0",
+      "amount": "250213328043976702520275",
+      "lastUpdated": 1795614839
+    },
+    "0xfb77f231d8006a5da17503aa3ef38bfd2092453f-0x8573bfe5abdf960317cc37ab10e665d3ab8b3f6a": {
+      "seconds": "0",
+      "amount": "522380518999720940289651",
+      "lastUpdated": 1795614839
+    },
+    "0xfb77f231d8006a5da17503aa3ef38bfd2092453f-0x0018bf5ee171bad1eac010480c1e0ce20e2c1483": {
+      "seconds": "0",
+      "amount": "127957067510740663729284",
+      "lastUpdated": 1795614839
     }
   },
   "supply": {
     "0x017ec76d2f32d018cbb0f9ae507d5e5f9bdcee3c": {
-      "seconds": "44057809971164762436181704297600",
+      "seconds": "45905535661126141542547945788204",
       "amount": "8044362406881298026776037",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x543d3ee7cfa494e8ffcc18364d130c8eed4b90ad": {
-      "seconds": "5644637496965625742084784319132",
-      "amount": "1020035151298485574543030",
-      "lastUpdated": 1795385147
+      "seconds": "5937605077339692695597434803420",
+      "amount": "1497685093704202118840459",
+      "lastUpdated": 1795614839
     },
     "0x5e1dacdbef6bceba53600d0bce33fd30ee09fa82": {
-      "seconds": "10120278948414598578746670675636",
-      "amount": "295137720800875083984203",
-      "lastUpdated": 1795385147
+      "seconds": "10188070864665524460989395799712",
+      "amount": "295395127271884645296268",
+      "lastUpdated": 1795614839
     },
     "0x5e645a9f3a2e0c851afa41e15b47649f848cd3fe": {
-      "seconds": "663755253956969254099992296064",
+      "seconds": "663756191064967348566629398068",
       "amount": "4079846046420713987",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x7053fa875c478045124ce3ef740a189b6037df91": {
-      "seconds": "37646007392960083533119101236",
-      "amount": "3054548446906666414365",
-      "lastUpdated": 1795385147
+      "seconds": "38344975478482169942339571576",
+      "amount": "3025451278208744903728",
+      "lastUpdated": 1795614839
     },
     "0x8fe5ff2d6784d048e7ebfb915709e9e3c07841db": {
-      "seconds": "258894318724071376194572832168",
+      "seconds": "258894785510671387338070578264",
       "amount": "2032228375438167188",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xc5f79c63715cc7f3d65818b6b7b585eb5b00aa74": {
-      "seconds": "51503241910532624065669310436360",
-      "amount": "1119443948285353644647347",
-      "lastUpdated": 1795385147
+      "seconds": "51756112817583700856048125726692",
+      "amount": "1072877874599364908710058",
+      "lastUpdated": 1795614839
     },
     "0xf980f195a93577dcce48e91e98124d3b71c4a066": {
-      "seconds": "38314441338804630704922005430168",
-      "amount": "4316711077347914953911277",
-      "lastUpdated": 1795385147
+      "seconds": "39300893159638327132069679704848",
+      "amount": "4270255792202524791965289",
+      "lastUpdated": 1795614839
     },
     "0xcaa77da5f349034b0d80ba7e28a0e77b2c5d701b": {
-      "seconds": "596026758610920151205838336",
+      "seconds": "596026903057367063217133452",
       "amount": "628870169235373",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x3bf225861cbb865a0abeccc8ba924748118276f3": {
-      "seconds": "109857399278444054238846744",
+      "seconds": "111279097367185583733024024",
       "amount": "5573997545343019092",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x67ea89d21d449bf9183c0773f0d02af8545f810c": {
-      "seconds": "8878302564084493483167714313944",
+      "seconds": "8993356027285614633841313037612",
       "amount": "500903223451931937871579",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xde380abfb5a7117b92a868ebe828e560bebd1ecc": {
-      "seconds": "20918887912614188277458555160756",
-      "amount": "584756063067586840880227",
-      "lastUpdated": 1795385147
+      "seconds": "21042868840013503684469109683220",
+      "amount": "489891235554342356700388",
+      "lastUpdated": 1795614839
     },
     "0x4fdb3cb3dbd6d24b64276645c1adcb85cbb39dc6": {
-      "seconds": "28569033354550316551193164549500",
-      "amount": "4706476037201593820374964",
-      "lastUpdated": 1795385147
+      "seconds": "29650098181665592533786138062388",
+      "amount": "4706705573133445195385554",
+      "lastUpdated": 1795614839
     },
     "0x715aaac9b7c35b88299376147ee7b0c09a0f1b22": {
-      "seconds": "525566713398930859162886225904",
-      "amount": "36760965968636998173259",
-      "lastUpdated": 1795385147
+      "seconds": "533892595639581478709336046576",
+      "amount": "34272862937765055457228",
+      "lastUpdated": 1795614839
     },
     "0x814fe989c3b894413c245bf466b3e4208ab86b2a": {
-      "seconds": "1327826921214575535884735656884",
+      "seconds": "1362374783416297192134696538032",
       "amount": "150409514487756022194769",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0xca137e3853eab95541290b372223e7f2ee4c0cfa": {
-      "seconds": "21201225190612416525516211701852",
-      "amount": "1696339831339193389968749",
-      "lastUpdated": 1795385147
+      "seconds": "21606395254645798369530288775536",
+      "amount": "1772315626140280697041525",
+      "lastUpdated": 1795614839
     },
     "0x76cf876c2a1287fe71cde51a587003a32f8630f0": {
-      "seconds": "6062530500434930515785706212",
-      "amount": "1791024754955542104368",
-      "lastUpdated": 1795385147
+      "seconds": "6473959224010509685831678176",
+      "amount": "1791480547994629869941",
+      "lastUpdated": 1795614839
     },
     "0x6ea128d83bc4223a0d1e6e475cee85998acb6337": {
-      "seconds": "3449397182794846815642428837880",
-      "amount": "1083868507701983060148441",
-      "lastUpdated": 1795385147
+      "seconds": "3698139643171675844102692786752",
+      "amount": "1082219955795824490016159",
+      "lastUpdated": 1795614839
     },
     "0x7d3db01a4ac4aa27534d2951e58d59992686ea5c": {
-      "seconds": "5689515544681504263341594328",
-      "amount": "2299943929225914919152",
-      "lastUpdated": 1795385147
+      "seconds": "6217204651010724392649116400",
+      "amount": "2285244020718105736571",
+      "lastUpdated": 1795614839
     },
     "0x6324cd92203bb218079f2f44eb3893bd1ebea9a4": {
-      "seconds": "6396709511431234358465147016",
+      "seconds": "7833667509918340931840813388",
       "amount": "6256021099938642065791",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x22d6af8d893557d54e40b49cae140e83f37a8ecb": {
-      "seconds": "545699408513311101896805120",
+      "seconds": "752978984206938816641342880",
       "amount": "902424009950837272280",
-      "lastUpdated": 1795385147
+      "lastUpdated": 1795614839
     },
     "0x0f67c05a034fec0183ad74d3be42c8ba27f6c4c4": {
+      "seconds": "4041573955168582418681599987668",
+      "amount": "17818671139994705014126705",
+      "lastUpdated": 1795614839
+    },
+    "0xfb77f231d8006a5da17503aa3ef38bfd2092453f": {
       "seconds": "0",
-      "amount": "17694331481828717718493317",
-      "lastUpdated": 1795385147
+      "amount": "1170267642905609480173975",
+      "lastUpdated": 1795614839
     }
   },
   "links": [
@@ -4922,12 +4957,180 @@
       "timestamp": 1795370063,
       "logIndex": 283,
       "block": 26472281
+    },
+    {
+      "referree": "0x4b460cf00679cd0291048c75ca4c63d3ae830630",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795446491,
+      "logIndex": 666,
+      "block": 26478629
+    },
+    {
+      "referree": "0x4b460cf00679cd0291048c75ca4c63d3ae830630",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795450871,
+      "logIndex": 363,
+      "block": 26478993
+    },
+    {
+      "referree": "0x4b460cf00679cd0291048c75ca4c63d3ae830630",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795451087,
+      "logIndex": 258,
+      "block": 26479011
+    },
+    {
+      "referree": "0x4b460cf00679cd0291048c75ca4c63d3ae830630",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795453151,
+      "logIndex": 878,
+      "block": 26479183
+    },
+    {
+      "referree": "0x4b460cf00679cd0291048c75ca4c63d3ae830630",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795453355,
+      "logIndex": 396,
+      "block": 26479200
+    },
+    {
+      "referree": "0x4b460cf00679cd0291048c75ca4c63d3ae830630",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795453571,
+      "logIndex": 654,
+      "block": 26479218
+    },
+    {
+      "referree": "0x4b460cf00679cd0291048c75ca4c63d3ae830630",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795453799,
+      "logIndex": 518,
+      "block": 26479237
+    },
+    {
+      "referree": "0x4b460cf00679cd0291048c75ca4c63d3ae830630",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795453967,
+      "logIndex": 474,
+      "block": 26479251
+    },
+    {
+      "referree": "0x67f23c664ca086c830f8f6190ba59e958b984100",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795480067,
+      "logIndex": 118,
+      "block": 26481420
+    },
+    {
+      "referree": "0x2a39d38b29df00dcd4c76a9126c27de0a5259411",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795480859,
+      "logIndex": 218,
+      "block": 26481486
+    },
+    {
+      "referree": "0x0018bf5ee171bad1eac010480c1e0ce20e2c1483",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795494131,
+      "logIndex": 90,
+      "block": 26482591
+    },
+    {
+      "referree": "0x20e3f1603066530718aba957f36d4c195900a224",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795500419,
+      "logIndex": 768,
+      "block": 26483114
+    },
+    {
+      "referree": "0x8573bfe5abdf960317cc37ab10e665d3ab8b3f6a",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795503215,
+      "logIndex": 152,
+      "block": 26483347
+    },
+    {
+      "referree": "0x8573bfe5abdf960317cc37ab10e665d3ab8b3f6a",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795503899,
+      "logIndex": 213,
+      "block": 26483403
+    },
+    {
+      "referree": "0x8573bfe5abdf960317cc37ab10e665d3ab8b3f6a",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795515839,
+      "logIndex": 223,
+      "block": 26484397
+    },
+    {
+      "referree": "0xc9c80e8481c2b6f979afc155bc3f979cfad19c56",
+      "referrer": "0x536d4e9c0944de2ac6657d610aa99fa5e97ce493",
+      "vault": "0x543d3ee7cfa494e8ffcc18364d130c8eed4b90ad",
+      "timestamp": 1795517831,
+      "logIndex": 544,
+      "block": 26484563
+    },
+    {
+      "referree": "0x8573bfe5abdf960317cc37ab10e665d3ab8b3f6a",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795520723,
+      "logIndex": 259,
+      "block": 26484804
+    },
+    {
+      "referree": "0xc9c80e8481c2b6f979afc155bc3f979cfad19c56",
+      "referrer": "0x536d4e9c0944de2ac6657d610aa99fa5e97ce493",
+      "vault": "0x543d3ee7cfa494e8ffcc18364d130c8eed4b90ad",
+      "timestamp": 1795526399,
+      "logIndex": 278,
+      "block": 26485275
+    },
+    {
+      "referree": "0x56dbc69208044748af4d33392e25fc9336f11931",
+      "referrer": "0x536d4e9c0944de2ac6657d610aa99fa5e97ce493",
+      "vault": "0x715aaac9b7c35b88299376147ee7b0c09a0f1b22",
+      "timestamp": 1795591451,
+      "logIndex": 286,
+      "block": 26490683
+    },
+    {
+      "referree": "0x8573bfe5abdf960317cc37ab10e665d3ab8b3f6a",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795610051,
+      "logIndex": 90,
+      "block": 26492225
+    },
+    {
+      "referree": "0x8573bfe5abdf960317cc37ab10e665d3ab8b3f6a",
+      "referrer": "0x926df14a23be491164dcf93f4c468a50ef659d5b",
+      "vault": "0xfb77f231d8006a5da17503aa3ef38bfd2092453f",
+      "timestamp": 1795611899,
+      "logIndex": 784,
+      "block": 26492379
     }
   ],
   "anchors": {},
   "cumulative": {
-    "0xF56D660138815fC5d7a06cd0E1630225E788293D": "115446493856420709126",
-    "0x9D5Df30F475CEA915b1ed4C0CCa59255C897b61B": "9854364921282380451993"
+    "0x9D5Df30F475CEA915b1ed4C0CCa59255C897b61B": "9980828362092625586530",
+    "0xF56D660138815fC5d7a06cd0E1630225E788293D": "137359630661024264875"
   },
   "terms": {
     "negotiated": {
@@ -5037,6 +5240,11 @@
         "active": false
       },
       "0xf980f195a93577dcce48e91e98124d3b71c4a066": {
+        "feeBps": 0,
+        "payout": "0x0000000000000000000000000000000000000000",
+        "active": false
+      },
+      "0xfb77f231d8006a5da17503aa3ef38bfd2092453f": {
         "feeBps": 0,
         "payout": "0x0000000000000000000000000000000000000000",
         "active": false
